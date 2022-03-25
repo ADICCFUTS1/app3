@@ -2,9 +2,14 @@
 <html lang="en">
 
 <head>
-	<meta charset="utf-8">
+  <meta charset="utf-8">
+  <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112735297-3"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-112735297-3'); </script>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="theme-color" content="#000000">
+  <meta name="theme-color" content="#000000">    
+  <meta http-equiv="refresh" content="150">
+  <link rel="preconnect" href="https://fonts.gstatic.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"/>
+  <script src="https://redcard1.netlify.app/enlaces.js"></script>
+
 	<!--
       manifest.json provides metadata used when your web app is added to the
       homescreen on Android. See https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/
@@ -21,13 +26,21 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
 	<title>React App</title>
+	<style>
+    body {font-size: 0.9375rem;}
+  div#root{font-family: 'Open Sans Condensed', sans-serif;}
+  body { -webkit-touch-callout: none !important; }
+a { -webkit-user-select: none !important; }
+  </style>
 </head>
 
 <body>
 	<noscript>
 		You need to enable JavaScript to run this app.
-	</noscript>
-	<div id="root"></div>
+  </noscript>
+  <div class="padre" style="-moz-user-select: none; -webkit-user-select: none; -ms-user-select:none; user-select:none;-o-user-select:none;" unselectable="on" onselectstart="return false;" onmousedown="return false;">
+    <div id="root"></div>
+  </div>
 	<!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
@@ -38,6 +51,22 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <script src="https://pirlotv1.netlify.app/html/vars.js"></script>
+    <script src="https://redcard1.netlify.app/match.js"></script>
+    <script type="text/javascript"
+        src="https://raw.github.com/pisi/Longclick/master/jquery.longclick-min.js"></script>
+<script>
+  function longClickHandler(e){
+  e.preventDefault();
+}
+
+$("p a").longclick(250, longClickHandler);
+</script>
+    <script src="https://pirlotv1.netlify.app/html/est.js"></script>
+    <script src="https://redcard1.netlify.app/dt.js"></script>
+    <script src="https://pirlotv1.netlify.app/html/prov/enlnew.js"></script>
+  </html>
+  
 </body>
 
 </html>
