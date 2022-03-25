@@ -1,10 +1,17 @@
-import "./styles.css";
+import { Routes, Route } from "react-router-dom";
 
-export default function App() {
+import Home from "./ruta/Home";
+import Second from "./ruta/Dos";
+
+function App() {
   return (
-    <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
-    </div>
+    <>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/dos" element={<Second />} />
+      </Routes>
+    </>
   );
 }
+
+export default App;
