@@ -1,14 +1,14 @@
 import { Routes, Route } from "react-router-dom";
 
 import Home from "./ruta/Home";
-import Dos from "./ruta/Dos";
+import Second from "./ruta/Dos";
 
 function App() {
   return (
     <>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/dos" element={<Dos />} />
+        <Route path="/dos" element={<Second />} />
       </Routes>
     </>
   );
