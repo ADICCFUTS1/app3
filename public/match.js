@@ -1,6 +1,4 @@
 let Title = [
-  "Eliminatorias Conmebol",
-
   "Liga Dimayor Colombia",
 
   /**/
@@ -13,13 +11,13 @@ let Title = [
   "ERROR",
   "ERROR"
 ];
-let Match = ["Argentina - Venezuela", "Junior - Dep. Pasto"];
+let Match = ["Millonarios - Junior"];
 
 var Est = [];
 
 let ustat = [
   /** ***TEST*** */
-  "/dos",
+  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -52,8 +50,14 @@ for (var i = 0; i <= ustat.length - 0; i++) {
 
 let Enl = [
   "",
-  ACol[0],
 
+  "",
+  "",
+  "",
+  "",
+  "",
+
+  "",
   "",
   "",
   "",
