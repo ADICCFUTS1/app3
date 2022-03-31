@@ -1,6 +1,4 @@
 let Title = [
-  "Liga Dimayor Colombia",
-
   /**/
   "ERROR",
   "ERROR",
@@ -11,7 +9,7 @@ let Title = [
   "ERROR",
   "ERROR"
 ];
-let Match = ["Millonarios - Junior"];
+let Match = ["Sin partidos"];
 
 var Est = [];
 
