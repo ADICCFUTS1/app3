@@ -1,4 +1,14 @@
 let Title = [
+  "Sorteo Mundial",
+
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+
+  "Liga Dimayor Colombia",
+
   /**/
   "ERROR",
   "ERROR",
@@ -9,7 +19,17 @@ let Title = [
   "ERROR",
   "ERROR"
 ];
-let Match = ["Sin partidos"];
+let Match = [
+  "Sorteo Mundial",
+
+  "Gimnasia La Plata - Talleres Córdoba",
+  "Central Córdoba SdE - Huracán",
+  "Patronato - Unión Santa Fe",
+  "Banfield - Argentinos Juniors",
+  "Barracas Central - Independiente",
+
+  "La Equidad - Deportivo Cali"
+];
 
 var Est = [];
 

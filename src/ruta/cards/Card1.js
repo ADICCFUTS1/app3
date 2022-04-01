@@ -23,7 +23,7 @@ export default function Card1() {
   return (
     <div>
       <Typography gutterBottom variant="h5" component="h2">
-        Viernes 01/04/2022 {dta[14]}
+        Viernes 01/04/2022 {dta[0]}
       </Typography>
 
       <Card className={classes.root}>
