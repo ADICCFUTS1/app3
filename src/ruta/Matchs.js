@@ -14,7 +14,7 @@ import CssBaseline from "@material-ui/core/CssBaseline";
 import Typography from "@material-ui/core/Typography";
 import Container from "@material-ui/core/Container";
 import Btn from "./btn";
-import Card1 from "./cards/Card1";
+
 import * as bloque from "./btns";
 
 import Titulo from "./titulo";
@@ -123,7 +123,6 @@ export default function Matchs() {
         </div>
         <div>
           <Divider />
-          <Card1 />
         </div>
         <div>{lis}</div>
       </Container>

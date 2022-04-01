@@ -30,7 +30,7 @@ export default function Card1() {
         <CardActionArea>
           <CardMedia
             className={classes.media}
-            image="/fiojfijkjjkikjikjqatar.webp"
+            image="https://i.imgur.com/w57sih5.jpg"
             title="Contemplative Reptile"
           />
           <CardContent>
