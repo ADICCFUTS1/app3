@@ -51,7 +51,7 @@ export default function Matchs() {
   let BB = [
     "",
 
-    "",
+    bloque.AArg[0],
     "",
     "",
     "",
