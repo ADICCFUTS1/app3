@@ -40,9 +40,6 @@ export default function Card1() {
           </CardContent>
         </CardActionArea>
         <CardActions>
-          <Button size="small" color="primary">
-            Sorteo
-          </Button>
           <Button
             size="small"
             color="primary"
