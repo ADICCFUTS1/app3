@@ -116,12 +116,12 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 
 let Enl = [
   "",
-  bloque.AIng[0],
-  bloque.AIng[1],
+  AIng[0],
+  AIng[1],
   "",
 
   "",
-  bloque.AEsp[0],
+  AEsp[0],
   "",
   "",
 
