@@ -49,17 +49,17 @@ export default function Matchs() {
   var lis = [];
 
   let BB = [
-    bloque.AIng[0],
+    bloque.AIng[0], //"",
+    "", //bloque.AIng[0],
+    "", //bloque.AIng[1],
     "",
+
+    bloque.AEsp[0], //"",
+    "", //bloque.AEsp[0],
     "",
     "",
 
-    bloque.AEsp[0],
-    "",
-    "",
-    "",
-
-    bloque.AAle[0],
+    bloque.AAle[0], //"",
 
     "",
     "",
