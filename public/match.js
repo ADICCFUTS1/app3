@@ -10,6 +10,7 @@ let Title = [
   "LaLiga",
 
   "Bundesliga",
+  "Bundesliga",
 
   "Liga Profesional Argentina",
   "Liga Profesional Argentina",
@@ -44,6 +45,7 @@ let Match = [
   "Atlético Madrid - Deportivo Alavés",
 
   "Freiburg - Bayern München",
+  "B. Dortmund - RB Leipzig",
 
   "Racing Club - Sarmiento",
   "Godoy Cruz - Estudiantes",
@@ -71,6 +73,7 @@ let ustat = [
   "https://es.fcstats.com/partido,atletico-madrid,deportivo-alaves,509913.php",
 
   "https://es.fcstats.com/partido,freiburg,bayern-munchen,508879.php",
+  "https://es.fcstats.com/partido,borussia-dortmund,rb-leipzig,508877.php",
 
   "https://es.fcstats.com/partido,racing-club,sarmiento,549262.php",
   "https://es.fcstats.com/partido,godoy-cruz,estudiantes-de-la-plata,549259.php",
@@ -126,6 +129,7 @@ let Enl = [
   "",
 
   "", //"",
+  AAle[0], //"",
 
   "",
   "",
