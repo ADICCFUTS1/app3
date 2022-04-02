@@ -52,15 +52,15 @@ export default function Matchs() {
     "",
     "",
     "",
-    bloque.AIng[0],
+    "",
 
+    "",
     "",
     "",
     bloque.AEsp[0],
-    "",
 
     "", //"",
-    bloque.AAle[0], //"",
+    "", //"",
 
     bloque.AArg[0],
     "",
@@ -68,7 +68,7 @@ export default function Matchs() {
     "",
     "",
 
-    "",
+    bloque.ACol[0],
     "",
     "",
     "",
