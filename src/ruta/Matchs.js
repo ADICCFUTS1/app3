@@ -62,7 +62,7 @@ export default function Matchs() {
     "", //"",
     bloque.AAle[0], //"",
 
-    "",
+    bloque.AArg[0],
     "",
     "",
     "",
