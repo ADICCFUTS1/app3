@@ -62,9 +62,9 @@ export default function Matchs() {
     "", //"",
     "", //"",
 
-    bloque.AArg[0],
     "",
-    "",
+    bloque.Extra[0],
+    bloque.Extra[1],
     "",
     "",
 
