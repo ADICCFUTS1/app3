@@ -1,9 +1,13 @@
 let Title = [
-  "LaLiga",
-  "Premier League",
-  "Serie A",
-  "Liga Dimayor Colombia",
-  "Liga Dimayor Colombia",
+  "UEFA Champions League",
+  "UEFA Champions League",
+
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+
+  "Conmebol Sudamericana",
+  "Conmebol Sudamericana",
 
   /**/
   "ERROR",
@@ -16,19 +20,29 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Real Sociedad - Espanyol",
+  "Benfica - Liverpool",
+  "Manchester City - Atlético Madrid",
 
-  "Crystal Palace - Arsenal FC",
+  "Colón - Peñarol",
+  "Olimpia - Cerro Porteño",
+  "Deportivo Cali - Boca Juniors",
 
-  "Milan - Bologna",
-
-  "Cortuluá - Deportivo Pasto",
-  "Once Caldas - Atlético Bucaramanga"
+  "Banfield - Santos",
+  "Ceará - Independiente"
 ];
 
 var Est = [];
 
 let ustat = [
+  "https://es.fcstats.com/partido,benfica-lisbon,liverpool,560015.php",
+  "https://es.fcstats.com/partido,manchester-city,atletico-madrid,560016.php",
+
+  "https://es.fcstats.com/partido,colon,penarol,560047.php",
+  "https://es.fcstats.com/partido,olimpia-asuncion,cerro-porteno,560048.php",
+  "https://es.fcstats.com/partido,deportivo-cali,boca-juniors,560050.php",
+
+  "https://es.fcstats.com/partido,banfield,santos,560263.php",
+  "https://es.fcstats.com/partido,ceara,independiente,560264.php",
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -64,25 +78,13 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 let Enl = [
   "",
   "",
+
   "",
   "",
-  ACol[0],
   "",
 
   "",
   "",
-
-  "",
-
-  "",
-
-  "",
-  "",
-  Extra[0],
-
-  "",
-  ACol[0],
-  ACol[0],
 
   /** */
   /** */
