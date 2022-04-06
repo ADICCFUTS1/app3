@@ -4,7 +4,6 @@ let Title = [
 
   "Conmebol Libertadores",
   "Conmebol Libertadores",
-  "Conmebol Libertadores",
 
   "Conmebol Sudamericana",
   "Conmebol Sudamericana",
@@ -20,29 +19,28 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Benfica - Liverpool",
-  "Manchester City - Atlético Madrid",
+  "Chelsea - Real Madrid",
+  "Villarreal - Bayern München",
 
-  "Colón - Peñarol",
-  "Olimpia - Cerro Porteño",
-  "Deportivo Cali - Boca Juniors",
+  "Talleres Córdoba - Universidad Católica",
+  "Alianza Lima - River Plate",
 
-  "Banfield - Santos",
-  "Ceará - Independiente"
+  "Unión Santa Fe - Junior",
+  "Antofagasta - Defensa y Justicia"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,benfica-lisbon,liverpool,560015.php",
-  "https://es.fcstats.com/partido,manchester-city,atletico-madrid,560016.php",
+  "https://es.fcstats.com/partido,chelsea-london,real-madrid,560017.php",
+  "https://es.fcstats.com/partido,villarreal,bayern-munchen,560018.php",
 
-  "https://es.fcstats.com/partido,colon,penarol,560047.php",
-  "https://es.fcstats.com/partido,olimpia-asuncion,cerro-porteno,560048.php",
-  "https://es.fcstats.com/partido,deportivo-cali,boca-juniors,560050.php",
+  "https://es.fcstats.com/partido,talleres-de-cordoba,universidad-catolica,560054.php",
+  "https://es.fcstats.com/partido,alianza-lima,river-plate,560055.php",
 
-  "https://es.fcstats.com/partido,banfield,santos,560263.php",
-  "https://es.fcstats.com/partido,ceara,independiente,560264.php",
+  "https://es.fcstats.com/partido,union-de-santa-fe,atletico-junior,560270.php",
+  "https://es.fcstats.com/partido,antofagasta,defensa-y-justicia,560271.php",
+
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -81,7 +79,6 @@ let Enl = [
 
   "",
   "",
-  ACol[0],
 
   "",
   "",
