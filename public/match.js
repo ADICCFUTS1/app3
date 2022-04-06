@@ -4,6 +4,7 @@ let Title = [
 
   "Conmebol Libertadores",
   "Conmebol Libertadores",
+  "Conmebol Libertadores",
 
   "Conmebol Sudamericana",
   "Conmebol Sudamericana",
@@ -22,6 +23,7 @@ let Match = [
   "Chelsea - Real Madrid",
   "Villarreal - Bayern München",
 
+  "RB Bragantino - Nacional",
   "Talleres Córdoba - Universidad Católica",
   "Alianza Lima - River Plate",
 
@@ -35,6 +37,7 @@ let ustat = [
   "https://es.fcstats.com/partido,chelsea-london,real-madrid,560017.php",
   "https://es.fcstats.com/partido,villarreal,bayern-munchen,560018.php",
 
+  "https://es.fcstats.com/partido,bragantino,club-nacional-de-football,560053.php",
   "https://es.fcstats.com/partido,talleres-de-cordoba,universidad-catolica,560054.php",
   "https://es.fcstats.com/partido,alianza-lima,river-plate,560055.php",
 
@@ -74,9 +77,10 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 }
 
 let Enl = [
-  AEsp[0],
-  AAle[0],
+  "",
+  "",
 
+  "",
   "",
   "",
 
