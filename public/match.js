@@ -1,11 +1,10 @@
 let Title = [
-  "UEFA Champions League",
-  "UEFA Champions League",
+  "UEFA Europa League",
+  "UEFA Europa League",
 
   "Conmebol Libertadores",
-  "Conmebol Libertadores",
-  "Conmebol Libertadores",
 
+  "Conmebol Sudamericana",
   "Conmebol Sudamericana",
   "Conmebol Sudamericana",
 
@@ -20,29 +19,27 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Chelsea - Real Madrid",
-  "Villarreal - Bayern München",
+  "Eintracht Frankfurt - Barcelona",
+  "West Ham United - Olympique Lyonnais",
 
-  "RB Bragantino - Nacional",
-  "Talleres Córdoba - Universidad Católica",
-  "Alianza Lima - River Plate",
+  "Estudiantes - Vélez Sarsfield",
 
-  "Unión Santa Fe - Junior",
-  "Antofagasta - Defensa y Justicia"
+  "River Plate - Racing Club",
+  "Metropolitanos - Lanús",
+  "Guaireña - Medellín"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,chelsea-london,real-madrid,560017.php",
-  "https://es.fcstats.com/partido,villarreal,bayern-munchen,560018.php",
+  "https://es.fcstats.com/partido,eintracht-frankfurt,fc-barcelona,560025.php",
+  "https://es.fcstats.com/partido,west-ham-united,olympique-lyon,560026.php",
 
-  "https://es.fcstats.com/partido,bragantino,club-nacional-de-football,560053.php",
-  "https://es.fcstats.com/partido,talleres-de-cordoba,universidad-catolica,560054.php",
-  "https://es.fcstats.com/partido,alianza-lima,river-plate,560055.php",
+  "https://es.fcstats.com/partido,estudiantes-de-la-plata,velez-sarsfield,560060.php",
 
-  "https://es.fcstats.com/partido,union-de-santa-fe,atletico-junior,560270.php",
-  "https://es.fcstats.com/partido,antofagasta,defensa-y-justicia,560271.php",
+  "https://es.fcstats.com/partido,river-plate-montevideo,racing-club,560274.php",
+  "https://es.fcstats.com/partido,metropolitanos,lanus,560278.php",
+  "https://es.fcstats.com/partido,guairena,independiente-medellin,560277.php",
 
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -81,11 +78,10 @@ let Enl = [
   "",
 
   "",
-  "",
-  Extra[0],
 
   "",
-  Extra[1],
+  "",
+  "",
 
   /** */
   /** */
