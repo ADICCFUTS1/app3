@@ -22,11 +22,14 @@ let Title = [
 ];
 let Match = [
   "Stuttgart - Borussia Dortmund",
+
   "Sevilla - Granada",
+
   "Arsenal - Godoy Cruz",
   "Atlético Tucumán - Gimnasia La Plata",
   "Rosario Central - Colón",
   "Sarmiento - San Lorenzo",
+
   "Millonarios - La Equidad"
 ];
 
@@ -70,12 +73,12 @@ let Enl = [
 
   "",
 
+  "",
+  "",
   Extra[0],
   Extra[1],
-  "",
-  "",
 
-  "",
+  ACol[0],
 
   /** */
   /** */
