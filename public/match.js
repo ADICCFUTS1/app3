@@ -95,12 +95,12 @@ let Enl = [
   "",
   AIta[0],
 
-  Extra[0],
-  Extra[1],
   "",
+  "",
+  Extra[0],
   "",
 
-  "",
+  ACol[0],
   "",
   "",
 
