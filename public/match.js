@@ -1,19 +1,13 @@
 let Title = [
-  "Premier League",
-  "Premier League",
-  "Premier League",
-
   "LaLiga",
   "LaLiga",
   "LaLiga",
   "LaLiga",
 
-  "Bundesliga",
+  "Premier League",
 
   "Serie A",
   "Serie A",
-
-  "Ligue 1",
 
   "Liga Profesional Argentina",
   "Liga Profesional Argentina",
@@ -35,60 +29,29 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Everton - Manchester United",
-  "Arsenal - Brighton & Hove Albion",
-  "Southampton - Chelsea",
+  "Osasuna - Deportivo Alavés",
+  "Espanyol - Celta de Vigo",
+  "Elche - Real Sociedad",
+  "Levante - Barcelona",
 
-  "Cádiz - Real Betis",
-  "Mallorca - Atlético Madrid",
-  "Villarreal - Athletic Club",
-  "Real Madrid - Getafe",
+  "Manchester City - Liverpool",
 
-  "Bayern München - Augsburg",
+  "Napoli - Fiorentina",
+  "Torino - Milan",
 
-  "Internazionale - Hellas Verona",
-  "Cagliari - Juventus",
+  "Estudiantes - Central Córdoba SdE",
+  "Patronato - Banfield",
+  "Platense - Racing Club",
+  "River Plate - Argentinos Juniors",
 
-  "Clermont - PSG",
-
-  "Unión Santa Fe - Newell's Old Boys",
-  "Talleres Córdoba - Defensa y Justicia",
-  "Independiente - Tigre",
-  "Vélez Sarsfield - Boca Juniors",
-
-  "Deportes Tolima - Rionegro Águilas",
-  "Unión Magdalena - Patriotas Boyacá",
-  "Deportivo Cali - Junior"
+  "Envigado - Santa Fe",
+  "Atlético Nacional - América de Cali",
+  "Alianza Petrolera - Medellín"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,everton,manchester-united,505957.php",
-  "https://es.fcstats.com/partido,arsenal-london,brighton-hove-albion,505954.php",
-  "https://es.fcstats.com/partido,southampton,chelsea-london,505962.php",
-
-  "https://es.fcstats.com/partido,cadiz,real-betis,509922.php",
-  "https://es.fcstats.com/partido,mallorca,atletico-madrid,509926.php",
-  "https://es.fcstats.com/partido,villarreal,athletic-bilbao,509931.php",
-  "https://es.fcstats.com/partido,real-madrid,getafe,509929.php",
-
-  "https://es.fcstats.com/partido,bayern-munchen,augsburg,508882.php",
-
-  "https://es.fcstats.com/partido,internazionale-milano,hellas-verona,523596.php",
-  "https://es.fcstats.com/partido,cagliari-calcio,juventus-torino,523593.php",
-
-  "https://es.fcstats.com/partido,clermont,paris-saint-germain,508173.php",
-
-  "https://es.fcstats.com/partido,union-de-santa-fe,newells-old-boys,549278.php",
-  "https://es.fcstats.com/partido,talleres-de-cordoba,defensa-y-justicia,549277.php",
-  "https://es.fcstats.com/partido,independiente,tigre,549270.php",
-  "https://es.fcstats.com/partido,velez-sarsfield,boca-juniors,549279.php",
-
-  "https://es.fcstats.com/partido,deportes-tolima,rionegro-aguilas,547654.php",
-  "https://es.fcstats.com/partido,union-magdalena,patriotas,547660.php",
-  "https://es.fcstats.com/partido,deportivo-cali,atletico-junior,547653.php",
-
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -116,14 +79,20 @@ let ustat = [
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estaisticas-no-disp.html"
 ];
 
-for (var i = 0; i <= ustat.length - 23; i++) {
-  //Est.push("" + ustat[i]);
-  Est.push("https://pirlotv2.herokuapp.com/full/app/test/est?url=" + ustat[i]);
+for (var i = 0; i <= ustat.length - 0; i++) {
+  Est.push("" + ustat[i]);
+  //Est.push("https://pirlotv2.herokuapp.com/full/app/test/est?url=" + ustat[i]);
 }
 
 let Enl = [
+  AEsp[0], // "",
+  "", // AEsp[0],
   "",
   "",
+
+  "", // AIng[0],
+
+  AIta[0],
   "",
 
   "",
@@ -132,20 +101,8 @@ let Enl = [
   "",
 
   "",
-
   "",
   "",
-
-  "",
-
-  "",
-  "",
-  "",
-  Extra[0],
-
-  "",
-  ACol[0],
-  ACol[0],
 
   /** */
   /** */
