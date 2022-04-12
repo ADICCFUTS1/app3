@@ -1,9 +1,17 @@
 let Title = [
-  "LaLiga",
-  "Liga Profesional Argentina",
-  "Liga Profesional Argentina",
+  "UEFA Champions League",
+  "UEFA Champions League",
 
-  "Liga Dimayor Colombia",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+
+  "Conmebol Sudamericana",
+  "Conmebol Sudamericana",
+  "Conmebol Sudamericana",
+
   "Liga Dimayor Colombia",
 
   /**/
@@ -17,18 +25,40 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Rayo Vallecano - Valencia",
+  "Bayern München - Villarreal",
+  "Real Madrid - Chelsea",
 
-  "Huracan - Barracas Central",
-  "Lanús - Aldosivi",
+  "Boca Juniors - Always Ready",
+  "Cerro Porteño - Colón",
+  "Flamengo - Talleres Córdoba",
+  "Palmeiras - Independiente Petrolero",
+  "Peñarol - Olimpia",
 
-  "Jaguares de Córdoba - Once Caldas",
-  "Deportivo Pasto - Deportivo Pereira"
+  "Oriente Petrolero - Unión Santa Fe",
+  "Defensa y Justicia - Atlético Goianiense",
+  "Independiente - General Caballero JLM",
+
+  "Atlético Bucaramanga - Cortuluá"
 ];
 
 var Est = [];
 
 let ustat = [
+  "https://es.fcstats.com/partido,bayern-munchen,villarreal,560019.php",
+  "https://es.fcstats.com/partido,real-madrid,chelsea-london,560020.php",
+
+  "https://es.fcstats.com/partido,boca-juniors,always-ready,560062.php",
+  "https://es.fcstats.com/partido,cerro-porteno,colon,560063.php",
+  "https://es.fcstats.com/partido,flamengo,talleres-de-cordoba,560065.php",
+  "https://es.fcstats.com/partido,palmeiras,independiente-petroleros,560066.php",
+  "https://es.fcstats.com/partido,penarol,olimpia-asuncion,560067.php",
+
+  "https://es.fcstats.com/partido,oriente-petrolero,union-de-santa-fe,560280.php",
+  "https://es.fcstats.com/partido,defensa-y-justicia,atletico-goianiense,560281.php",
+  "https://es.fcstats.com/partido,independiente,general-caballero,560282.php",
+
+  "https://es.fcstats.com/partido,atletico-bucaramanga,cortulua,547652.php",
+
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -56,23 +86,25 @@ let ustat = [
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estaisticas-no-disp.html"
 ];
 
-for (var i = 0; i <= ustat.length - 0; i++) {
-  Est.push("" + ustat[i]);
-  //Est.push("https://pirlotv2.herokuapp.com/full/app/test/est?url=" + ustat[i]);
+for (var i = 0; i <= ustat.length - 23; i++) {
+  //Est.push("" + ustat[i]);
+  Est.push("https://pirlotv2.herokuapp.com/full/app/test/est?url=" + ustat[i]);
 }
 
 let Enl = [
   "",
-
   "",
-  Extra[0],
-
-  ACol[0],
-  ACol[0],
 
   "",
   "",
   "",
+  "",
+  "",
+
+  "",
+  "",
+  "",
+
   "",
 
   /** */
