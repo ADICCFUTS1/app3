@@ -64,11 +64,11 @@ for (var i = 0; i <= ustat.length - 0; i++) {
 let Enl = [
   "",
 
-  Extra[0],
   "",
+  Extra[0],
 
   ACol[0],
-  "",
+  ACol[0],
 
   "",
   "",
