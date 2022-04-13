@@ -134,6 +134,18 @@ export default function Matchs() {
             <Button variant="outlined" color="secondary" onClick={refreshPage}>
               <RefreshIcon />
             </Button>
+            <Typography variant="h6" component="h6">
+              Es necesario tener actualizado el componente webview de Android,
+              para comprobarlo siga este enlace:{" "}
+              <a
+                href={
+                  "https://play.google.com/store/apps/details?id=com.google.android.webview"
+                }
+                target="_blank"
+              >
+                Ver en Play Store
+              </a>
+            </Typography>
           </div>
           <div>
             <Divider />
