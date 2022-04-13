@@ -29,7 +29,7 @@ const lightTheme = {
 };
 
 const darkTheme = {
-  backgroundColor: "black",
+  backgroundColor: "#35353a",
   color: "white"
 };
 const useStyles = makeStyles((theme) => ({
