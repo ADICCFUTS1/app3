@@ -62,8 +62,6 @@ export default function Matchs() {
     "",
     "",
 
-    "",
-
     /****/
     "error!!1",
     "error!!1",

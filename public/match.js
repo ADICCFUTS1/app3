@@ -12,8 +12,6 @@ let Title = [
   "Conmebol Sudamericana",
   "Conmebol Sudamericana",
 
-  "Liga Dimayor Colombia",
-
   /**/
   "ERROR",
   "ERROR",
@@ -25,39 +23,35 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Bayern München - Villarreal",
-  "Real Madrid - Chelsea",
+  "Atlético Madrid - Manchester City",
+  "Liverpool - Benfica",
 
-  "Boca Juniors - Always Ready",
-  "Cerro Porteño - Colón",
-  "Flamengo - Talleres Córdoba",
-  "Palmeiras - Independiente Petrolero",
-  "Peñarol - Olimpia",
+  "Atlético Mineiro - América Mineiro",
+  "Corinthians - Deportivo Cali",
+  "Nacional - Estudiantes",
+  "River Plate - Fortaleza",
+  "Independiente del Valle - Deportes Tolima",
 
-  "Oriente Petrolero - Unión Santa Fe",
-  "Defensa y Justicia - Atlético Goianiense",
-  "Independiente - General Caballero JLM",
-
-  "Atlético Bucaramanga - Cortuluá"
+  "Racing Club - Cuiabá",
+  "Santos - Universidad Católica",
+  "Junior - Fluminense"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,bayern-munchen,villarreal,560019.php",
-  "https://es.fcstats.com/partido,real-madrid,chelsea-london,560020.php",
+  "https://es.fcstats.com/partido,atletico-madrid,manchester-city,560021.php",
+  "https://es.fcstats.com/partido,liverpool,benfica-lisbon,560022.php",
 
-  "https://es.fcstats.com/partido,boca-juniors,always-ready,560062.php",
-  "https://es.fcstats.com/partido,cerro-porteno,colon,560063.php",
-  "https://es.fcstats.com/partido,flamengo,talleres-de-cordoba,560065.php",
-  "https://es.fcstats.com/partido,palmeiras,independiente-petroleros,560066.php",
-  "https://es.fcstats.com/partido,penarol,olimpia-asuncion,560067.php",
+  "https://es.fcstats.com/partido,atletico-mineiro,america-mineiro,560071.php",
+  "https://es.fcstats.com/partido,corinthians,deportivo-cali,560072.php",
+  "https://es.fcstats.com/partido,club-nacional-de-football,estudiantes-de-la-plata,560073.php",
+  "https://es.fcstats.com/partido,river-plate,fortaleza-ec,560070.php",
+  "https://es.fcstats.com/partido,independiente-jose-teran,deportes-tolima,560074.php",
 
-  "https://es.fcstats.com/partido,oriente-petrolero,union-de-santa-fe,560280.php",
-  "https://es.fcstats.com/partido,defensa-y-justicia,atletico-goianiense,560281.php",
-  "https://es.fcstats.com/partido,independiente,general-caballero,560282.php",
-
-  "https://es.fcstats.com/partido,atletico-bucaramanga,cortulua,547652.php",
+  "https://es.fcstats.com/partido,racing-club,cuiaba,560287.php",
+  "https://es.fcstats.com/partido,santos,universidad-catolica-del-ecuador,560285.php",
+  "https://es.fcstats.com/partido,atletico-junior,fluminense,560286.phps",
 
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -103,8 +97,6 @@ let Enl = [
 
   "",
   "",
-  "",
-
   "",
 
   /** */
