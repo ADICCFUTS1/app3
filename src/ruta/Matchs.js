@@ -22,6 +22,16 @@ import Paper from "@material-ui/core/Paper";
 import Grid from "@material-ui/core/Grid";
 import Divider from "@material-ui/core/Divider";
 
+const isDark = window.matchMedia("(prefers-color-scheme:dark)").matches;
+const lightTheme = {
+  backgroundColor: "white",
+  color: "black"
+};
+
+const darkTheme = {
+  backgroundColor: "black",
+  color: "white"
+};
 const useStyles = makeStyles((theme) => ({
   root: {
     "& > *": {
@@ -108,28 +118,30 @@ export default function Matchs() {
   }
 
   return (
-    <React.Fragment>
-      <CssBaseline />
-      <Container>
-        <Grid item xs={12}>
-          <Paper className={classes.paper}>
-            <Typography variant="h5" component="h5">
-              Calendario {datef}
-            </Typography>
-            <Titulo />
-          </Paper>
-        </Grid>
-        <div className={classes.root}>
-          <Button variant="outlined" color="secondary" onClick={refreshPage}>
-            <RefreshIcon />
-          </Button>
-        </div>
-        <div>
-          <Divider />
-        </div>
-        <div>{lis}</div>
-      </Container>
-    </React.Fragment>
+    <div style={isDark ? darkTheme : lightTheme}>
+      <React.Fragment>
+        <CssBaseline />
+        <Container>
+          <Grid item xs={12}>
+            <Paper className={classes.paper}>
+              <Typography variant="h5" component="h5">
+                Calendario {datef}
+              </Typography>
+              <Titulo />
+            </Paper>
+          </Grid>
+          <div className={classes.root}>
+            <Button variant="outlined" color="secondary" onClick={refreshPage}>
+              <RefreshIcon />
+            </Button>
+          </div>
+          <div>
+            <Divider />
+          </div>
+          <div>{lis}</div>
+        </Container>
+      </React.Fragment>
+    </div>
   );
 }
 export const light = {
