@@ -68,7 +68,7 @@ export default function Matchs() {
     bloque.AConmebol[0],
     "",
 
-    bloque.Extra[0],
+    "",
     "",
     bloque.Extra[0],
 
