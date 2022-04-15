@@ -1,16 +1,15 @@
 let Title = [
-  "UEFA Europa League",
-  "UEFA Europa League",
+  "LaLiga",
 
-  "Conmebol Libertadores",
-
-  "Conmebol Sudamericana",
-  "Conmebol Sudamericana",
-  "Conmebol Sudamericana",
-  "Conmebol Sudamericana",
-  "Conmebol Sudamericana",
+  "Serie A",
+  "Serie A",
 
   "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+
+  "Liga DImayor COlombia",
 
   /**/
   "ERROR",
@@ -23,36 +22,22 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Barcelona - Eintracht Frankfurt",
-  "Olympique Lyonnais - West Ham United",
+  "Real Sociedad - Real Betis",
 
-  "Vélez Sarsfield - RB Bragantino",
+  "Spezia - Internazionale",
+  "Milan - Genoa",
 
-  "São Paulo - Everton",
-  "Unión La Calera - Banfield",
-  "Internacional - Guaireña",
-  "Lanús - Barcelona",
-  "Medellín - Nueve de Octubre",
+  "Tigre - Huracán",
+  "Aldosivi - Rosario Central",
+  "Central Córdoba SdE - Arsenal",
+  "Newell's Old Boys - Patronato",
 
-  "Gimnasia La Plata - Sarmiento"
+  "Santa Fe - Alianza Petrolera"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,fc-barcelona,eintracht-frankfurt,560028.php",
-  "https://es.fcstats.com/partido,olympique-lyon,west-ham-united,560029.php",
-
-  "https://es.fcstats.com/partido,velez-sarsfield,bragantino,560076.php",
-
-  "https://es.fcstats.com/partido,sao-paulo,everton-vina-del-mar,560289.php",
-  "https://es.fcstats.com/partido,union-la-calera,banfield,560290.php",
-  "https://es.fcstats.com/partido,internacional,guairena,560293.php",
-  "https://es.fcstats.com/partido,lanus,barcelona-sc,560294.php",
-  "https://es.fcstats.com/partido,independiente-medellin,nueve-de-octubre,560292.php",
-
-  "https://es.fcstats.com/partido,gimnasia-la-plata,sarmiento,549288.php",
-
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -87,11 +72,10 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 
 let Enl = [
   "",
-  "",
 
   "",
-
   "",
+
   "",
   "",
   "",
