@@ -69,7 +69,7 @@ export default function Matchs() {
     "",
     bloque.Extra[1],
 
-    bloque.ACol[1],
+    bloque.ACol[0],
     "",
 
     "",
