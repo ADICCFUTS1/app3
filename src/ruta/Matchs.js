@@ -61,8 +61,8 @@ export default function Matchs() {
   let BB = [
     "",
     "",
+    "",
     bloque.AEsp[0],
-    "",
 
     "",
 
@@ -71,14 +71,14 @@ export default function Matchs() {
 
     "",
 
-    bloque.AIta[0],
+    "",
+
+    bloque.Extra[0],
+    "",
+    "",
+    "",
 
     bloque.ACol[0],
-    "",
-    "",
-    "",
-
-    "",
     "",
     "",
     "",
