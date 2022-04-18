@@ -60,7 +60,7 @@ export default function Matchs() {
 
   let BB = [
     "",
-    "",
+    bloque.AIta[0],
     "",
 
     /****/
