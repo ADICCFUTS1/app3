@@ -1,7 +1,18 @@
 let Title = [
   "LaLiga",
-  "Serie A",
-  "Liga Dimayor Colombia",
+  "LaLiga",
+  "LaLiga",
+
+  "Premier League",
+
+  "Coppa Italia",
+
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
 
   /**/
   "ERROR",
@@ -14,21 +25,38 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Barcelona - Cádiz",
+  "Mallorca - Deportivo Alavés",
+  "Real Betis - Elche",
+  "Villarreal - Valencia",
 
-  "Napoli - Roma",
+  "Liverpool - Manchester United",
+  "Internazionale - Milan",
 
-  "Patriotas Boyacá - Envigado"
+  "Arsenal - Barracas Central",
+  "Unión Santa Fe - San Lorenzo",
+  "Estudiantes - Tigre",
+  "Huracán - Colón",
+  "Independiente - Aldosivi",
+  "Platense - Gimnasia La Plata"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,fc-barcelona,cadiz,509935.php",
+  "https://es.fcstats.com/partido,mallorca,deportivo-alaves,509948.php",
+  "https://es.fcstats.com/partido,real-betis,elche,509943.php",
+  "https://es.fcstats.com/partido,villarreal,valencia,509951.php",
 
-  "https://es.fcstats.com/partido,napoli,as-roma,523607.php",
+  "https://es.fcstats.com/partido,liverpool,manchester-united,505937.php",
 
-  "https://es.fcstats.com/partido,patriotas,envigado-fc,547668.php",
+  "https://es.fcstats.com/partido,internazionale-milano,ac-milan,556861.php",
+
+  "https://es.fcstats.com/partido,arsenal-de-sarandi,barracas-central,549294.php",
+  "https://es.fcstats.com/partido,union-de-santa-fe,san-lorenzo,549306.php",
+  "https://es.fcstats.com/partido,estudiantes-de-la-plata,tigre,549297.php",
+  "https://es.fcstats.com/partido,huracan,colon,549298.php",
+  "https://es.fcstats.com/partido,independiente,aldosivi,549299.php",
+  "https://es.fcstats.com/partido,platense,gimnasia-la-plata,549303.php",
 
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -65,7 +93,17 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 let Enl = [
   "",
   "",
-  ACol[0],
+  "",
+
+  "",
+  "",
+
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
 
   /** */
   /** */

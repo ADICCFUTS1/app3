@@ -61,7 +61,18 @@ export default function Matchs() {
   let BB = [
     "",
     "",
-    bloque.ACol[0],
+    "",
+
+    "",
+
+    "",
+
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
 
     /****/
     "error!!1",
