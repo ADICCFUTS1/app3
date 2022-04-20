@@ -4,7 +4,9 @@ let Title = [
   "LaLiga",
 
   "Premier League",
+  "Premier League",
 
+  "Ligue 1",
   "Coppa Italia",
 
   "Liga Profesional Argentina",
@@ -25,38 +27,45 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Mallorca - Deportivo Alavés",
-  "Real Betis - Elche",
-  "Villarreal - Valencia",
+  "Atlético Madrid - Granada",
+  "Celta de Vigo - Getafe",
+  "Osasuna - Real Madrid",
 
-  "Liverpool - Manchester United",
-  "Internazionale - Milan",
+  "Chelsea - Arsenal",
+  "Manchester City - Brighton & Hove Albion",
 
-  "Arsenal - Barracas Central",
-  "Unión Santa Fe - San Lorenzo",
-  "Estudiantes - Tigre",
-  "Huracán - Colón",
-  "Independiente - Aldosivi",
-  "Platense - Gimnasia La Plata"
+  "Angers SCO - PSG",
+
+  "Juventus - Fiorentina",
+
+  "Newell's Old Boys - Banfield",
+  "Patronato - Racing Club",
+  "Vélez Sarsfield - Central Córdoba SdE",
+  "Lanús - Rosario Central",
+  "Talleres Córdoba - River Plate",
+  "Boca Juniors - Godoy Cruz"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,mallorca,deportivo-alaves,509948.php",
-  "https://es.fcstats.com/partido,real-betis,elche,509943.php",
-  "https://es.fcstats.com/partido,villarreal,valencia,509951.php",
+  "https://es.fcstats.com/partido,atletico-madrid,granada,509942.php",
+  "https://es.fcstats.com/partido,celta-de-vigo,getafe,509945.php",
+  "https://es.fcstats.com/partido,osasuna,real-madrid,509949.php",
 
-  "https://es.fcstats.com/partido,liverpool,manchester-united,505937.php",
+  "https://es.fcstats.com/partido,chelsea-london,arsenal-london,505886.php",
+  "https://es.fcstats.com/partido,manchester-city,brighton-hove-albion,505938.php",
 
-  "https://es.fcstats.com/partido,internazionale-milano,ac-milan,556861.php",
+  "https://es.fcstats.com/partido,angers,paris-saint-germain,508190.php",
 
-  "https://es.fcstats.com/partido,arsenal-de-sarandi,barracas-central,549294.php",
-  "https://es.fcstats.com/partido,union-de-santa-fe,san-lorenzo,549306.php",
-  "https://es.fcstats.com/partido,estudiantes-de-la-plata,tigre,549297.php",
-  "https://es.fcstats.com/partido,huracan,colon,549298.php",
-  "https://es.fcstats.com/partido,independiente,aldosivi,549299.php",
-  "https://es.fcstats.com/partido,platense,gimnasia-la-plata,549303.php",
+  "https://es.fcstats.com/partido,juventus-torino,fiorentina,556862.php",
+
+  "https://es.fcstats.com/partido,newells-old-boys,banfield,549301.php",
+  "https://es.fcstats.com/partido,patronato-parana,racing-club,549302.php",
+  "https://es.fcstats.com/partido,patronato-parana,racing-club,549302.php",
+  "https://es.fcstats.com/partido,lanus,rosario-central,549300.php",
+  "https://es.fcstats.com/partido,talleres-de-cordoba,river-plate,549305.php",
+  "https://es.fcstats.com/partido,boca-juniors,godoy-cruz,549296.php",
 
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -96,6 +105,9 @@ let Enl = [
   "",
 
   "",
+  "",
+
+  "",
 
   "",
 
@@ -103,8 +115,8 @@ let Enl = [
   "",
   "",
   "",
-  Extra[0],
-  Extra[1],
+  "",
+  "",
 
   /** */
   /** */
