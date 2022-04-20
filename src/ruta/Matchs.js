@@ -64,11 +64,11 @@ export default function Matchs() {
     "",
 
     bloque.AIng[0],
-    "",
+    bloque.AIng[1],
 
-    "",
+    bloque.AFra[0],
 
-    "",
+    bloque.AIta[0],
 
     bloque.Extra[0],
     "",

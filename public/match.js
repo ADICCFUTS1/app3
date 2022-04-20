@@ -105,11 +105,11 @@ let Enl = [
   "",
 
   AIng[0],
-  "",
+  AIng[1],
 
-  "",
+  AFra[0],
 
-  "",
+  AIta[0],
 
   Extra[0],
   "",
