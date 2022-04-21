@@ -30,13 +30,13 @@ let Match = [
 var Est = [];
 
 let ustat = [
-  "",
-  "",
-  "",
-  "",
+  "https://es.fcstats.com/partido,espanyol-barcelona,rayo-vallecano,509946.php",
+  "https://es.fcstats.com/partido,levante,sevilla,509947.php",
+  "https://es.fcstats.com/partido,cadiz,athletic-bilbao,509944.php",
+  "https://es.fcstats.com/partido,real-sociedad,fc-barcelona,509950.php",
 
-  "",
-  "",
+  "https://es.fcstats.com/partido,sarmiento,defensa-y-justicia,549304.php",
+  "https://es.fcstats.com/partido,atletico-tucuman,argentinos-juniors,549295.php",
 
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -71,13 +71,13 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 }
 
 let Enl = [
-  "https://es.fcstats.com/partido,espanyol-barcelona,rayo-vallecano,509946.php",
-  "https://es.fcstats.com/partido,levante,sevilla,509947.php",
-  "https://es.fcstats.com/partido,cadiz,athletic-bilbao,509944.php",
-  "https://es.fcstats.com/partido,real-sociedad,fc-barcelona,509950.php",
+  AEsp[1],
+  AEsp[0],
+  "",
+  "",
 
-  "https://es.fcstats.com/partido,sarmiento,defensa-y-justicia,549304.php",
-  "https://es.fcstats.com/partido,atletico-tucuman,argentinos-juniors,549295.php",
+  "",
+  "",
 
   /** */
   /** */
