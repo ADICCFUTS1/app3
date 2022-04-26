@@ -31,7 +31,15 @@ export const Chs = [
   </div>,
   <div>
     {" "}
-    <Btn Valor={chs[3]} /> <Btn Valor={chs[4]} /> <Btn Valor={chs[5]} />{" "}
+    <Btn Valor={chs[3]} />{" "}
+  </div>,
+  <div>
+    {" "}
+    <Btn Valor={chs[4]} />{" "}
+  </div>,
+  <div>
+    {" "}
+    <Btn Valor={chs[5]} />{" "}
   </div>
 ];
 
