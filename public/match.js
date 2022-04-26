@@ -1,9 +1,16 @@
 let Title = [
-  "Serie A",
+  "UEFA Champions League",
 
-  "Liga Profesional Argentina",
-  "Liga Profesional Argentina",
-  "Liga Profesional Argentina",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+
+  "Conmebol Sudamericana",
+  "Conmebol Sudamericana",
+  "Conmebol Sudamericana",
 
   "Liga Dimayor Colombia",
 
@@ -18,25 +25,39 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Sassuolo - Juventus",
+  "Manchester City - Real Madrid",
 
-  "Tigre - Arsenal",
-  "Aldosivi - Huracán",
-  "Argentinos Juniors - Sarmiento",
+  "Estudiantes - RB Bragantino",
+  "Libertad - Athletico-PR",
+  "Vélez Sarsfield - Nacional",
+  "Corinthians - Boca Juniors",
+  "Independiente del Valle - Atlético Mineiro",
+  "Talleres Córdoba - Sporting Cristal",
 
-  "Cortuluá - La Equidad"
+  "Deportivo La Guaira - Independiente",
+  "Fluminense - Unión Santa Fe",
+  "Medellín - Internacional",
+
+  "Deportivo Pasto - Patriotas Boyacá"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,sassuolo,juventus-torino,523617.php",
+  "https://es.fcstats.com/partido,manchester-city,real-madrid,561679.php",
 
-  "https://es.fcstats.com/partido,tigre,arsenal-de-sarandi,549321.php",
-  "https://es.fcstats.com/partido,aldosivi,huracan,549308.php",
-  "https://es.fcstats.com/partido,argentinos-juniors,sarmiento,549309.php",
+  "https://es.fcstats.com/partido,estudiantes-de-la-plata,bragantino,560078.php",
+  "https://es.fcstats.com/partido,libertad-asuncion,atletico-paranaense,560080.php",
+  "https://es.fcstats.com/partido,velez-sarsfield,club-nacional-de-football,560081.php",
+  "https://es.fcstats.com/partido,corinthians,boca-juniors,560082.php",
+  "https://es.fcstats.com/partido,independiente-jose-teran,atletico-mineiro,560083.php",
+  "https://es.fcstats.com/partido,talleres-de-cordoba,sporting-cristal,560084.php",
 
-  "https://es.fcstats.com/partido,cortulua,la-equidad,547673.php",
+  "https://es.fcstats.com/partido,deportivo-la-guaira,independiente,560296.php",
+  "https://es.fcstats.com/partido,fluminense,union-de-santa-fe,560298.php",
+  "https://es.fcstats.com/partido,independiente-medellin,internacional,560299.php",
+
+  "https://es.fcstats.com/partido,deportivo-pasto,patriotas,547675.php",
 
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -74,8 +95,15 @@ let Enl = [
   "",
 
   "",
-  Extra[0],
-  Extra[1],
+  "",
+  "",
+  "",
+  "",
+  "",
+
+  "",
+  "",
+  "",
 
   "",
 
