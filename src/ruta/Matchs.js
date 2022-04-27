@@ -61,18 +61,18 @@ export default function Matchs() {
   let BB = [
     "",
 
+    "",
+    "",
+    "",
     bloque.Extra[0],
     bloque.Extra[1],
     bloque.Extra[2],
-    "",
-    "",
-    "",
 
+    "",
     bloque.Extra[3],
-    "",
-    "",
+    bloque.Extra[4],
 
-    "",
+    bloque.ACol[0],
 
     /****/
     "error!!1",
