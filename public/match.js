@@ -9,7 +9,6 @@ let Title = [
 
   "Conmebol Sudamericana",
   "Conmebol Sudamericana",
-  "Conmebol Sudamericana",
 
   "Liga Profesional Argentina",
 
