@@ -1,18 +1,17 @@
 let Title = [
+  "Serie A",
+
   "UEFA Champions League",
 
   "Conmebol Libertadores",
   "Conmebol Libertadores",
   "Conmebol Libertadores",
-  "Conmebol Libertadores",
-  "Conmebol Libertadores",
-  "Conmebol Libertadores",
 
   "Conmebol Sudamericana",
   "Conmebol Sudamericana",
   "Conmebol Sudamericana",
 
-  "Liga Dimayor Colombia",
+  "Liga Profesional Argentina",
 
   /**/
   "ERROR",
@@ -25,39 +24,35 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Manchester City - Real Madrid",
+  "Bologna - Internazionale",
 
-  "Estudiantes - RB Bragantino",
-  "Libertad - Athletico-PR",
-  "Vélez Sarsfield - Nacional",
-  "Corinthians - Boca Juniors",
-  "Independiente del Valle - Atlético Mineiro",
-  "Talleres Córdoba - Sporting Cristal",
+  "Liverpool - Villarreal",
 
-  "Deportivo La Guaira - Independiente",
-  "Fluminense - Unión Santa Fe",
-  "Medellín - Internacional",
+  "América Mineiro - Deportes Tolima",
+  "Cerro Porteño - Peñarol",
+  "Colo-Colo - River Plate",
 
-  "Deportivo Pasto - Patriotas Boyacá"
+  "Melgar - Racing Club",
+  "Universidad Católica - Banfield",
+
+  "Newell's Old Boys - San Lorenzo"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,manchester-city,real-madrid,561679.php",
+  "https://es.fcstats.com/partido,bologna,internazionale-milano,523473.php",
 
-  "https://es.fcstats.com/partido,estudiantes-de-la-plata,bragantino,560078.php",
-  "https://es.fcstats.com/partido,libertad-asuncion,atletico-paranaense,560080.php",
-  "https://es.fcstats.com/partido,velez-sarsfield,club-nacional-de-football,560081.php",
-  "https://es.fcstats.com/partido,corinthians,boca-juniors,560082.php",
-  "https://es.fcstats.com/partido,independiente-jose-teran,atletico-mineiro,560083.php",
-  "https://es.fcstats.com/partido,talleres-de-cordoba,sporting-cristal,560084.php",
+  "https://es.fcstats.com/partido,liverpool,villarreal,561680.php",
 
-  "https://es.fcstats.com/partido,deportivo-la-guaira,independiente,560296.php",
-  "https://es.fcstats.com/partido,fluminense,union-de-santa-fe,560298.php",
-  "https://es.fcstats.com/partido,independiente-medellin,internacional,560299.php",
+  "https://es.fcstats.com/partido,america-mineiro,deportes-tolima,560085.php",
+  "https://es.fcstats.com/partido,cerro-porteno,penarol,560086.php",
+  "https://es.fcstats.com/partido,colo-colo,river-plate,560087.php",
 
-  "https://es.fcstats.com/partido,deportivo-pasto,patriotas,547675.php",
+  "https://es.fcstats.com/partido,fbc-melgar,racing-club,560301.php",
+  "https://es.fcstats.com/partido,universidad-catolica-del-ecuador,banfield,560304.php",
+
+  "https://es.fcstats.com/partido,newells-old-boys,san-lorenzo,549329.php",
 
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -95,13 +90,11 @@ let Enl = [
   "",
 
   "",
-  "",
-  "",
+
   "",
   "",
   "",
 
-  "",
   "",
   "",
 
