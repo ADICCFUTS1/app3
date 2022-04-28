@@ -37,7 +37,7 @@ var Est = [];
 
 let ustat = [
   /*ENLACES ** ENLACES ** ENLACES  */
-  "https://es.fcstats.com/partido,manchester-united,chelsea-london,506007.php",
+  /*"https://es.fcstats.com/partido,manchester-united,chelsea-london,506007.php",
 
   "https://es.fcstats.com/partido,west-ham-united,eintracht-frankfurt,561684.php",
 
@@ -47,43 +47,43 @@ let ustat = [
   "https://es.fcstats.com/partido,defensa-y-justicia,liga-de-quito,560305.php",
   "https://es.fcstats.com/partido,oriente-petrolero,atletico-junior,560308.php",
   "https://es.fcstats.com/partido,montevideo-wanderers,lanus,560310.php",
-
+*/
   /** ***TEST*** */
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
-  "https://pirlotv-redirecciones.blogspot.com/2020/09/estaisticas-no-disp.html"
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
+  "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html"
 ];
 
-for (var i = 0; i <= ustat.length - 23; i++) {
-  //Est.push("" + ustat[i]);
-  Est.push("https://pirlotv2.herokuapp.com/full/app/test/est?url=" + ustat[i]);
+for (var i = 0; i <= ustat.length - 1; i++) {
+  Est.push("" + ustat[i]);
+  //Est.push("https://pirlotv2.herokuapp.com/full/app/test/est?url=" + ustat[i]);
 }
 
 let Enl = [
-  "",
+  AIng[0],
 
-  "",
+  AAle[0],
 
   "",
   "",
