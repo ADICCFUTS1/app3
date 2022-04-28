@@ -1,16 +1,14 @@
 let Title = [
-  "Serie A",
+  "Premier League",
 
-  "UEFA Champions League",
+  "UEFA Europa League",
 
-  "Conmebol Libertadores",
   "Conmebol Libertadores",
   "Conmebol Libertadores",
 
   "Conmebol Sudamericana",
   "Conmebol Sudamericana",
-
-  "Liga Profesional Argentina",
+  "Conmebol Sudamericana",
 
   /**/
   "ERROR",
@@ -23,35 +21,32 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Bologna - Internazionale",
+  "Manchester United - Chelsea",
 
-  "Liverpool - Villarreal",
+  "West Ham United - Eintracht Frankfurt",
 
-  "América Mineiro - Deportes Tolima",
-  "Cerro Porteño - Peñarol",
-  "Colo-Colo - River Plate",
+  "Olimpia - Colón",
+  "Always Ready - Deportivo Cali",
 
-  "Melgar - Racing Club",
-  "Universidad Católica - Banfield",
-
-  "Newell's Old Boys - San Lorenzo"
+  "Defensa y Justicia - LDU Quito",
+  "Oriente Petrolero - Junior",
+  "Wanderers - Lanús"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,bologna,internazionale-milano,523473.php",
+  /*ENLACES ** ENLACES ** ENLACES  */
+  "https://es.fcstats.com/partido,manchester-united,chelsea-london,506007.php",
 
-  "https://es.fcstats.com/partido,liverpool,villarreal,561680.php",
+  "https://es.fcstats.com/partido,west-ham-united,eintracht-frankfurt,561684.php",
 
-  "https://es.fcstats.com/partido,america-mineiro,deportes-tolima,560085.php",
-  "https://es.fcstats.com/partido,cerro-porteno,penarol,560086.php",
-  "https://es.fcstats.com/partido,colo-colo,river-plate,560087.php",
+  "https://es.fcstats.com/partido,olimpia-asuncion,colon,560092.php",
+  "https://es.fcstats.com/partido,always-ready,deportivo-cali,560093.php",
 
-  "https://es.fcstats.com/partido,fbc-melgar,racing-club,560301.php",
-  "https://es.fcstats.com/partido,universidad-catolica-del-ecuador,banfield,560304.php",
-
-  "https://es.fcstats.com/partido,newells-old-boys,san-lorenzo,549329.php",
+  "https://es.fcstats.com/partido,defensa-y-justicia,liga-de-quito,560305.php",
+  "https://es.fcstats.com/partido,oriente-petrolero,atletico-junior,560308.php",
+  "https://es.fcstats.com/partido,montevideo-wanderers,lanus,560310.php",
 
   /** ***TEST*** */
   "https://pirlotv-redirecciones.blogspot.com/2020/09/estadisticas-no-disp.html",
@@ -91,13 +86,11 @@ let Enl = [
   "",
 
   "",
-  Extra[3],
-  Extra[0],
+  "",
 
-  Extra[1],
-  Extra[1],
-
-  Extra[2],
+  "",
+  "",
+  "",
 
   /** */
   /** */
