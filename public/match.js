@@ -1,11 +1,28 @@
 let Title = [
+  "Premier League",
+  "Premier League",
+
+  "LaLiga",
+  "LaLiga",
+  "LaLiga",
   "LaLiga",
 
-  "Ligue 1",
+  "Serie A",
+
+  "Bundesliga",
+  "Bundesliga",
 
   "Liga Profesional Argentina",
   "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
 
+  "Liga Dimayor Colombia",
+  "Liga Dimayor Colombia",
+  "Liga Dimayor Colombia",
   "Liga Dimayor Colombia",
 
   /**/
@@ -19,14 +36,31 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Sevilla - Cádiz",
+  "Newcastle United - Liverpool",
+  "Leeds United - Manchester City",
 
-  "Strasbourg - PSG",
+  "Deportivo Alavés - Villarreal",
+  "Real Madrid - Espanyol",
+  "Valencia - Levante",
+  "Athletic Club - Atlético Madrid",
 
-  "Estudiantes - Aldosivi",
-  "Patronato - Gimnasia La Plata",
+  "Napoli - Sassuolo",
 
-  "Deportivo Pereira - Unión Magdalena"
+  "Borussia Dortmund - Bochum",
+  "Mainz 05 - Bayern München",
+
+  "Atlético Tucumán - Talleres Córdoba",
+  "Racing Club - Banfield",
+  "Vélez Sarsfield - Tigre",
+  "Arsenal - Colón",
+  "Boca Juniors - Barracas Central",
+  "Lanús - Independiente",
+  "Sarmiento - River Plate",
+
+  "La Equidad - Atlético Bucaramanga",
+  "Medellín - Atlético Nacional",
+  "Santa Fe - Jaguares de Córdoba",
+  "Deportes Tolima - Cortuluá"
 ];
 
 var Est = [];
@@ -77,14 +111,31 @@ for (var i = 0; i <= ustat.length - 1; i++) {
 }
 
 let Enl = [
+  AIng[0], // "",
   "",
 
+  AEsp[0], // "",
+  "", // AEsp[0],
+  "",
   "",
 
-  "",
+  AIta[0],
+
   Extra[0],
+  AAle[0],
 
-  ACol[0],
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+
+  "",
+  "",
+  "",
+  "",
 
   /** */
   /** */
