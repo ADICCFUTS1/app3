@@ -59,31 +59,21 @@ export default function Matchs() {
   var lis = [];
 
   let BB = [
+    bloque.AIng[0], // "",
+    "", //  bloque.AIng[0],
+
+    bloque.AEsp[0], // "",
+    "", // bloque.AEsp[0],
     "",
+    "",
+
+    bloque.AIta[0], // "",
+    "", // bloque.AIta[0],
     "",
 
     "",
     "",
     "",
-    "",
-
-    "",
-
-    "",
-    "",
-
-    "",
-    "",
-    "",
-    "",
-    "",
-    bloque.Extra[1],
-    bloque.Extra[0],
-
-    "",
-    "",
-    bloque.ACol[0],
-    bloque.ACol[0],
 
     /****/
     "error!!1",
