@@ -91,8 +91,8 @@ for (var i = 0; i <= ustat.length - 1; i++) {
 }
 
 let Enl = [
-  AIng[0], // "",
-  "", //  AIng[0],
+  "",
+  AIng[0],
 
   "",
   AEsp[0],
