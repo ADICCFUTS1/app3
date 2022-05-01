@@ -9,6 +9,7 @@ let Title = [
 
   "Serie A",
   "Serie A",
+  "Serie A",
 
   "Liga Dimayor Colombia",
   "Liga Dimayor Colombia",
