@@ -67,8 +67,8 @@ export default function Matchs() {
     "",
     "",
 
-    bloque.AIta[0], // "",
-    "", // bloque.AIta[0],
+    "",
+    bloque.AIta[0],
     "",
 
     "",
