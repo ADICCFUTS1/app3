@@ -30,18 +30,14 @@ let Match = [
 var Est = [];
 
 let ustat = [
-  /*ENLACES ** ENLACES ** ENLACES  */
-  /*"https://es.fcstats.com/partido,manchester-united,chelsea-london,506007.php",
+  "https://es.fcstats.com/partido,villarreal,liverpool,561681.php",
 
-  "https://es.fcstats.com/partido,west-ham-united,eintracht-frankfurt,561684.php",
+  "https://es.fcstats.com/partido,estudiantes-de-la-plata,club-nacional-de-football,560098.php",
 
-  "https://es.fcstats.com/partido,olimpia-asuncion,colon,560092.php",
-  "https://es.fcstats.com/partido,always-ready,deportivo-cali,560093.php",
+  "https://es.fcstats.com/partido,estudiantes-de-la-plata,club-nacional-de-football,560098.php",
+  "https://es.fcstats.com/partido,nueve-de-octubre,independiente-medellin,560315.php",
+  "https://es.fcstats.com/partido,general-caballero,independiente,560314.php",
 
-  "https://es.fcstats.com/partido,defensa-y-justicia,liga-de-quito,560305.php",
-  "https://es.fcstats.com/partido,oriente-petrolero,atletico-junior,560308.php",
-  "https://es.fcstats.com/partido,montevideo-wanderers,lanus,560310.php",
-*/
   /** ***TEST*** */
   "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
   "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -69,9 +65,9 @@ let ustat = [
   "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html"
 ];
 
-for (var i = 0; i <= ustat.length - 1; i++) {
-  Est.push("" + ustat[i]);
-  //Est.push("https://pirlotv2.herokuapp.com/full/app/test/est?url=" + ustat[i]);
+for (var i = 0; i <= ustat.length - 23; i++) {
+  //Est.push("" + ustat[i]);
+  Est.push("https://pirlotv2.herokuapp.com/full/app/test/est?url=" + ustat[i]);
 }
 
 let Enl = [
