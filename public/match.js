@@ -35,8 +35,8 @@ let ustat = [
   "https://es.fcstats.com/partido,estudiantes-de-la-plata,club-nacional-de-football,560098.php",
 
   "https://es.fcstats.com/partido,estudiantes-de-la-plata,club-nacional-de-football,560098.php",
-  "https://es.fcstats.com/partido,nueve-de-octubre,independiente-medellin,560315.php",
   "https://es.fcstats.com/partido,general-caballero,independiente,560314.php",
+  "https://es.fcstats.com/partido,nueve-de-octubre,independiente-medellin,560315.php",
 
   /** ***TEST*** */
   "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -73,11 +73,11 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 let Enl = [
   "",
 
-  "",
-
   Extra[0],
+
   "",
-  "",
+  Extra[1],
+  Extra2[0],
 
   /** */
   /** */

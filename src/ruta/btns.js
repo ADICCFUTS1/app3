@@ -152,3 +152,33 @@ export const Extra = [
     <Btn Valor={ext[6]} />{" "}
   </div>
 ];
+export const Extra2 = [
+  <div>
+    {" "}
+    <Btn Valor={ext2[0]} />{" "}
+  </div>,
+  <div>
+    {" "}
+    <Btn Valor={ext2[1]} />{" "}
+  </div>,
+  <div>
+    {" "}
+    <Btn Valor={ext2[2]} />{" "}
+  </div>,
+  <div>
+    {" "}
+    <Btn Valor={ext2[3]} />{" "}
+  </div>,
+  <div>
+    {" "}
+    <Btn Valor={ext2[4]} />{" "}
+  </div>,
+  <div>
+    {" "}
+    <Btn Valor={ext2[5]} />{" "}
+  </div>,
+  <div>
+    {" "}
+    <Btn Valor={ext2[6]} />{" "}
+  </div>
+];
