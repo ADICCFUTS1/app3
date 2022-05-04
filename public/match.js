@@ -2,7 +2,13 @@ let Title = [
   "UEFA Champions League",
 
   "Conmebol Libertadores",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
+  "Conmebol Libertadores",
 
+  "Conmebol Sudamericana",
   "Conmebol Sudamericana",
   "Conmebol Sudamericana",
   "Conmebol Sudamericana",
@@ -18,25 +24,35 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Villarreal - Liverpool",
+  "Real Madrid - Manchester City",
 
-  "Estudiantes - Nacional",
+  "Colón - Cerro Porteño",
+  "Talleres Córdoba - Flamengo",
+  "Always Ready - Boca Juniors",
+  "Deportivo Cali - Corinthians",
+  "Olimpia - Peñarol",
+  "Deportes Tolima - Independiente del Valle",
 
-  "Cuiabá - Racing Club",
-  "General Caballero JLM - Independiente",
-  "Nueve de Octubre - Medellín"
+  "Atlético Goianiense - Defensa y Justicia",
+  "Barcelona - Lanús",
+  "Fluminense - Junior"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,villarreal,liverpool,561681.php",
+  "https://es.fcstats.com/partido,real-madrid,manchester-city,561682.php",
 
-  "https://es.fcstats.com/partido,estudiantes-de-la-plata,club-nacional-de-football,560098.php",
+  "https://es.fcstats.com/partido,colon,cerro-porteno,560100.php",
+  "https://es.fcstats.com/partido,talleres-de-cordoba,flamengo,560101.php",
+  "https://es.fcstats.com/partido,always-ready,boca-juniors,560102.php",
+  "https://es.fcstats.com/partido,deportivo-cali,corinthians,560103.php",
+  "https://es.fcstats.com/partido,olimpia-asuncion,penarol,560104.php",
+  "https://es.fcstats.com/partido,deportes-tolima,independiente-jose-teran,560105.php",
 
-  "https://es.fcstats.com/partido,estudiantes-de-la-plata,club-nacional-de-football,560098.php",
-  "https://es.fcstats.com/partido,general-caballero,independiente,560314.php",
-  "https://es.fcstats.com/partido,nueve-de-octubre,independiente-medellin,560315.php",
+  "https://es.fcstats.com/partido,atletico-goianiense,defensa-y-justicia,560317.php",
+  "https://es.fcstats.com/partido,barcelona-sc,lanus,560319.php",
+  "https://es.fcstats.com/partido,fluminense,atletico-junior,560320.php",
 
   /** ***TEST*** */
   "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -73,11 +89,16 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 let Enl = [
   "",
 
-  Extra[0],
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
 
   "",
-  Extra[1],
-  Extra2[0],
+  "",
+  "",
 
   /** */
   /** */
