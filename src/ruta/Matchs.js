@@ -66,11 +66,11 @@ export default function Matchs() {
     "",
     "",
     "",
-    bloque.Extra[2],
+    "",
 
     "",
-    bloque.Extra2[0],
-    bloque.Extra2[1],
+    "",
+    "",
 
     /****/
     "error!!1",
