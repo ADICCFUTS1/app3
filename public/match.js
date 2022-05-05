@@ -1,15 +1,13 @@
 let Title = [
-  "UEFA Champions League",
+  "UEFA Europa League",
+  "UEFA Europa League",
+
+  "UEFA Conference League",
+  "UEFA Conference League",
 
   "Conmebol Libertadores",
   "Conmebol Libertadores",
-  "Conmebol Libertadores",
-  "Conmebol Libertadores",
-  "Conmebol Libertadores",
-  "Conmebol Libertadores",
 
-  "Conmebol Sudamericana",
-  "Conmebol Sudamericana",
   "Conmebol Sudamericana",
   "Conmebol Sudamericana",
 
@@ -24,35 +22,37 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Real Madrid - Manchester City",
+  "Eintracht Frankfurt - West Ham United",
+  "Rangers - RB Leipzig",
 
-  "Colón - Cerro Porteño",
-  "Talleres Córdoba - Flamengo",
-  "Always Ready - Boca Juniors",
-  "Deportivo Cali - Corinthians",
-  "Olimpia - Peñarol",
-  "Deportes Tolima - Independiente del Valle",
+  "Olympique Marseille - Feyenoord",
+  "Roma - Leicester City",
 
-  "Atlético Goianiense - Defensa y Justicia",
-  "Barcelona - Lanús",
-  "Fluminense - Junior"
+  "Fortaleza - River Plate",
+  "RB Bragantino - Vélez Sarsfield",
+
+  "Unión Santa Fe - Oriente Petrolero",
+  "Banfield - Unión La Calera",
+
+  "Unión Magdalena - La Equidad"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,real-madrid,manchester-city,561682.php",
+  "https://es.fcstats.com/partido,eintracht-frankfurt,west-ham-united,561685.php",
+  "https://es.fcstats.com/partido,rangers,rb-leipzig,561686.php",
 
-  "https://es.fcstats.com/partido,colon,cerro-porteno,560100.php",
-  "https://es.fcstats.com/partido,talleres-de-cordoba,flamengo,560101.php",
-  "https://es.fcstats.com/partido,always-ready,boca-juniors,560102.php",
-  "https://es.fcstats.com/partido,deportivo-cali,corinthians,560103.php",
-  "https://es.fcstats.com/partido,olimpia-asuncion,penarol,560104.php",
-  "https://es.fcstats.com/partido,deportes-tolima,independiente-jose-teran,560105.php",
+  "https://es.fcstats.com/partido,olympique-marseille,feyenoord-rotterdam,561690.php",
+  "https://es.fcstats.com/partido,as-roma,leicester-city,561689.php",
 
-  "https://es.fcstats.com/partido,atletico-goianiense,defensa-y-justicia,560317.php",
-  "https://es.fcstats.com/partido,barcelona-sc,lanus,560319.php",
-  "https://es.fcstats.com/partido,fluminense,atletico-junior,560320.php",
+  "https://es.fcstats.com/partido,fortaleza-ec,river-plate,560107.php",
+  "https://es.fcstats.com/partido,bragantino,velez-sarsfield,560108.php",
+
+  "https://es.fcstats.com/partido,union-de-santa-fe,oriente-petrolero,560323.php",
+  "https://es.fcstats.com/partido,banfield,union-la-calera,560325.php",
+
+  "https://es.fcstats.com/partido,union-magdalena,la-equidad,547700.php",
 
   /** ***TEST*** */
   "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -88,16 +88,17 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 
 let Enl = [
   "",
-
-  "",
-  "",
-  "",
-  "",
-  "",
   "",
 
   "",
   "",
+
+  "",
+  "",
+
+  "",
+  "",
+
   "",
 
   /** */
