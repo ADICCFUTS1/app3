@@ -1,15 +1,13 @@
 let Title = [
-  "UEFA Europa League",
-  "UEFA Europa League",
+  "Serie A",
+  "Serie A",
 
-  "UEFA Conference League",
-  "UEFA Conference League",
+  "LaLiga",
 
-  "Conmebol Libertadores",
-  "Conmebol Libertadores",
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
 
-  "Conmebol Sudamericana",
-  "Conmebol Sudamericana",
+  "Liga Dimayor Colombia",
 
   /**/
   "ERROR",
@@ -22,37 +20,29 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Eintracht Frankfurt - West Ham United",
-  "Rangers - RB Leipzig",
+  "Internazionale - Empoli",
+  "Genoa - Juventus",
 
-  "Olympique Marseille - Feyenoord",
-  "Roma - Leicester City",
+  "Levante - Real Sociedad",
 
-  "Fortaleza - River Plate",
-  "RB Bragantino - Vélez Sarsfield",
+  "San Lorenzo - Racing Club",
+  "Barracas Central - Godoy Cruz",
 
-  "Unión Santa Fe - Oriente Petrolero",
-  "Banfield - Unión La Calera",
-
-  "Unión Magdalena - La Equidad"
+  "Atlético Nacional - Deportivo Pereira"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,eintracht-frankfurt,west-ham-united,561685.php",
-  "https://es.fcstats.com/partido,rangers,rb-leipzig,561686.php",
+  "",
+  "",
 
-  "https://es.fcstats.com/partido,olympique-marseille,feyenoord-rotterdam,561690.php",
-  "https://es.fcstats.com/partido,as-roma,leicester-city,561689.php",
+  "",
 
-  "https://es.fcstats.com/partido,fortaleza-ec,river-plate,560107.php",
-  "https://es.fcstats.com/partido,bragantino,velez-sarsfield,560108.php",
+  "",
+  "",
 
-  "https://es.fcstats.com/partido,union-de-santa-fe,oriente-petrolero,560323.php",
-  "https://es.fcstats.com/partido,banfield,union-la-calera,560325.php",
-
-  "https://es.fcstats.com/partido,union-magdalena,la-equidad,547700.php",
+  "",
 
   /** ***TEST*** */
   "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -87,19 +77,15 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 }
 
 let Enl = [
-  "",
-  "",
+  "https://es.fcstats.com/partido,internazionale-milano,empoli,523633.php",
+  "https://es.fcstats.com/partido,genoa,juventus-torino,523632.php",
 
-  "",
-  "",
+  "https://es.fcstats.com/partido,levante,real-sociedad,509969.php",
 
-  "",
-  Extra[0],
+  "https://es.fcstats.com/partido,san-lorenzo,racing-club,549347.php",
+  "https://es.fcstats.com/partido,barracas-central,godoy-cruz,549339.php",
 
-  Extra[1],
-  Extra[1],
-
-  "",
+  "https://es.fcstats.com/partido,atletico-nacional,deportivo-pereira,547691.php",
 
   /** */
   /** */
