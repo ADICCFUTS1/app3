@@ -60,11 +60,11 @@ export default function Matchs() {
 
   let BB = [
     "",
-    bloque.AIta[0],
-
-    bloque.AEsp[0],
+    "",
 
     "",
+
+    bloque.Extra[0],
     "",
 
     "",
