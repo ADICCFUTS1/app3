@@ -59,7 +59,7 @@ export default function Matchs() {
   var lis = [];
 
   let BB = [
-    "",
+    bloque.AIta[0],
     "",
 
     "",

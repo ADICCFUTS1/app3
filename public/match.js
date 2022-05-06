@@ -34,15 +34,15 @@ let Match = [
 var Est = [];
 
 let ustat = [
-  "",
-  "",
+  "https://es.fcstats.com/partido,internazionale-milano,empoli,523633.php",
+  "https://es.fcstats.com/partido,genoa,juventus-torino,523632.php",
 
-  "",
+  "https://es.fcstats.com/partido,levante,real-sociedad,509969.php",
 
-  "",
-  "",
+  "https://es.fcstats.com/partido,san-lorenzo,racing-club,549347.php",
+  "https://es.fcstats.com/partido,barracas-central,godoy-cruz,549339.php",
 
-  "",
+  "https://es.fcstats.com/partido,atletico-nacional,deportivo-pereira,547691.php",
 
   /** ***TEST*** */
   "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -77,17 +77,18 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 }
 
 let Enl = [
-  "https://es.fcstats.com/partido,internazionale-milano,empoli,523633.php",
-  "https://es.fcstats.com/partido,genoa,juventus-torino,523632.php",
+  AIta[0],
+  "",
 
-  "https://es.fcstats.com/partido,levante,real-sociedad,509969.php",
+  "",
 
-  "https://es.fcstats.com/partido,san-lorenzo,racing-club,549347.php",
-  "https://es.fcstats.com/partido,barracas-central,godoy-cruz,549339.php",
+  "",
+  "",
 
-  "https://es.fcstats.com/partido,atletico-nacional,deportivo-pereira,547691.php",
+  "",
 
   /** */
+
   /** */
   "error!!1",
   "error!!1",
