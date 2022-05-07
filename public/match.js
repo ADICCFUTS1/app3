@@ -41,7 +41,6 @@ let Match = [
   "Greuther Fürth - Borussia Dortmund",
 
   "Chelsea - Wolverhampton Wanderers",
-  "Crystal Palace - Watford",
   "Brighton & Hove Albion - Manchester United",
   "Liverpool - Tottenham Hotspur",
 
