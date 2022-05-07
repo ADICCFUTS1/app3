@@ -1,12 +1,22 @@
 let Title = [
-  "Serie A",
-  "Serie A",
-
+  "LaLiga",
+  "LaLiga",
+  "LaLiga",
+  "LaLiga",
   "LaLiga",
 
+  "Serie A",
+
+  "Bundesliga",
+
+  "Liga Profesional Argentina",
+  "Liga Profesional Argentina",
   "Liga Profesional Argentina",
   "Liga Profesional Argentina",
 
+  "Liga Dimayor Colombia",
+  "Liga Dimayor Colombia",
+  "Liga Dimayor Colombia",
   "Liga Dimayor Colombia",
 
   /**/
@@ -20,29 +30,58 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Internazionale - Empoli",
-  "Genoa - Juventus",
+  "Mallorca - Granada",
+  "Athletic Club - Valencia",
+  "Cádiz - Elche",
+  "Celta de Vigo - Deportivo Alavés",
+  "Real Betis - Barcelona",
 
-  "Levante - Real Sociedad",
+  "Torino - Napoli",
 
-  "San Lorenzo - Racing Club",
-  "Barracas Central - Godoy Cruz",
+  "Greuther Fürth - Borussia Dortmund",
 
-  "Atlético Nacional - Deportivo Pereira"
+  "Chelsea - Wolverhampton Wanderers",
+  "Crystal Palace - Watford",
+  "Brighton & Hove Albion - Manchester United",
+  "Liverpool - Tottenham Hotspur",
+
+  "Aldosivi - Arsenal",
+  "Independiente - Huracán",
+  "Tigre - Boca Juniors",
+  "Rosario Central - Estudiantes",
+
+  " Atlético Bucaramanga - Patriotas Boyacá",
+  "Deportivo Cali - Santa Fe",
+  "Deportivo Pasto - América de Cali",
+  "Jaguares de Córdoba - Medellín"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,internazionale-milano,empoli,523633.php",
-  "https://es.fcstats.com/partido,genoa,juventus-torino,523632.php",
+  "https://es.fcstats.com/partido,mallorca,granada,509970.php",
+  "https://es.fcstats.com/partido,athletic-bilbao,valencia,509962.php",
+  "https://es.fcstats.com/partido,cadiz,elche,509965.php",
+  "https://es.fcstats.com/partido,celta-de-vigo,deportivo-alaves,509966.php",
+  "https://es.fcstats.com/partido,real-betis,fc-barcelona,509964.php",
 
-  "https://es.fcstats.com/partido,levante,real-sociedad,509969.php",
+  "https://es.fcstats.com/partido,torino,napoli,523638.php",
 
-  "https://es.fcstats.com/partido,san-lorenzo,racing-club,549347.php",
-  "https://es.fcstats.com/partido,barracas-central,godoy-cruz,549339.php",
+  "https://es.fcstats.com/partido,greuther-furth,borussia-dortmund,508923.php",
 
-  "https://es.fcstats.com/partido,atletico-nacional,deportivo-pereira,547691.php",
+  "https://es.fcstats.com/partido,chelsea-london,wolverhampton-wanderers,505998.php",
+  "https://es.fcstats.com/partido,brighton-hove-albion,manchester-united,505996.php",
+  "https://es.fcstats.com/partido,liverpool,tottenham-hotspur,506001.php",
+
+  "https://es.fcstats.com/partido,aldosivi,arsenal-de-sarandi,549336.php",
+  "https://es.fcstats.com/partido,independiente,huracan,549344.php",
+  "https://es.fcstats.com/partido,tigre,boca-juniors,549349.php",
+  "https://es.fcstats.com/partido,rosario-central,estudiantes-de-la-plata,549346.php",
+
+  "https://es.fcstats.com/partido,atletico-bucaramanga,patriotas,547692.php",
+  "https://es.fcstats.com/partido,deportivo-cali,santa-fe,547694.php",
+  "https://es.fcstats.com/partido,deportivo-pasto,america-de-cali,547695.php",
+  "https://es.fcstats.com/partido,jaguares-de-cordoba,independiente-medellin,547697.php",
 
   /** ***TEST*** */
   "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -77,18 +116,31 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 }
 
 let Enl = [
+  AEsp[0],
+  "", //  AEsp[0],
+  "",
+  "",
+  "",
+
+  AIta[0],
+
+  AAle[0],
+
+  "", //  AIng[0],
   "",
   "",
 
   "",
+  "",
+  "",
+  "",
 
   "",
-  Extra[0],
-
-  ACol[0],
+  "",
+  "",
+  "",
 
   /** */
-
   /** */
   "error!!1",
   "error!!1",
