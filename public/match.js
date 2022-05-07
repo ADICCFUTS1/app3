@@ -9,6 +9,10 @@ let Title = [
 
   "Bundesliga",
 
+  "Premier League",
+  "Premier League",
+  "Premier League",
+
   "Liga Profesional Argentina",
   "Liga Profesional Argentina",
   "Liga Profesional Argentina",
