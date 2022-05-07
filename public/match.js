@@ -133,10 +133,10 @@ let Enl = [
   "",
   "",
 
-  Extra[0],
-  Extra[1],
-  Extra[2],
   "",
+  "",
+  "",
+  Extra[2],
 
   "",
   ACol[0],
