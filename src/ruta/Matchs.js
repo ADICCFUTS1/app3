@@ -65,13 +65,13 @@ export default function Matchs() {
     "",
 
     "",
-    bloque.AIng[0],
-
-    bloque.AAle[0],
-
     "",
 
     "",
+
+    bloque.AFra[0],
+
+    bloque.AIta[0],
 
     "",
     "",
