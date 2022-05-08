@@ -3,16 +3,17 @@ let Title = [
   "LaLiga",
   "LaLiga",
   "LaLiga",
-  "LaLiga",
 
-  "Serie A",
+  "Premier League",
+  "Premier League",
 
   "Bundesliga",
 
-  "Premier League",
-  "Premier League",
-  "Premier League",
+  "Ligue 1",
 
+  "Serie A",
+
+  "Liga Profesional Argentina",
   "Liga Profesional Argentina",
   "Liga Profesional Argentina",
   "Liga Profesional Argentina",
@@ -34,57 +35,59 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Mallorca - Granada",
-  "Athletic Club - Valencia",
-  "Cádiz - Elche",
-  "Celta de Vigo - Deportivo Alavés",
-  "Real Betis - Barcelona",
+  "Getafe - Rayo Vallecano",
+  "Villarreal - Sevilla",
+  "Espanyol - Osasuna",
+  "Atlético Madrid - Real Madrid",
 
-  "Torino - Napoli",
+  "Arsenal - Leeds United",
+  "Manchester City - Newcastle United",
 
-  "Greuther Fürth - Borussia Dortmund",
+  "Bayern München - Stuttgart",
 
-  "Chelsea - Wolverhampton Wanderers",
-  "Brighton & Hove Albion - Manchester United",
-  "Liverpool - Tottenham Hotspur",
+  "PSG - Troyes",
 
-  "Aldosivi - Arsenal",
-  "Independiente - Huracán",
-  "Tigre - Boca Juniors",
-  "Rosario Central - Estudiantes",
+  "Hellas Verona - Milan",
 
-  " Atlético Bucaramanga - Patriotas Boyacá",
-  "Deportivo Cali - Santa Fe",
-  "Deportivo Pasto - América de Cali",
-  "Jaguares de Córdoba - Medellín"
+  "Argentinos Juniors - Unión Santa Fe",
+  "Defensa y Justicia - Patronato",
+  "Gimnasia La Plata - Newell's Old Boys",
+  "Talleres Córdoba - Sarmiento",
+  "River Plate - Platense",
+
+  "Cortuluá - Junior",
+  "Envigado - Rionegro Águilas",
+  "Millonarios - Deportes Tolima",
+  "Alianza Petrolera - Once Caldas"
 ];
 
 var Est = [];
 
 let ustat = [
-  "https://es.fcstats.com/partido,mallorca,granada,509970.php",
-  "https://es.fcstats.com/partido,athletic-bilbao,valencia,509962.php",
-  "https://es.fcstats.com/partido,cadiz,elche,509965.php",
-  "https://es.fcstats.com/partido,celta-de-vigo,deportivo-alaves,509966.php",
-  "https://es.fcstats.com/partido,real-betis,fc-barcelona,509964.php",
+  "https://es.fcstats.com/partido,getafe,rayo-vallecano,509968.php",
+  "https://es.fcstats.com/partido,villarreal,sevilla,509971.php",
+  "https://es.fcstats.com/partido,espanyol-barcelona,osasuna,509967.php",
+  "https://es.fcstats.com/partido,atletico-madrid,real-madrid,509963.php",
 
-  "https://es.fcstats.com/partido,torino,napoli,523638.php",
+  "https://es.fcstats.com/partido,arsenal-london,leeds-united,505994.php",
+  "https://es.fcstats.com/partido,manchester-city,newcastle-united,506002.php",
 
-  "https://es.fcstats.com/partido,greuther-furth,borussia-dortmund,508923.php",
+  "https://es.fcstats.com/partido,bayern-munchen,vfb-stuttgart,508918.php",
 
-  "https://es.fcstats.com/partido,chelsea-london,wolverhampton-wanderers,505998.php",
-  "https://es.fcstats.com/partido,brighton-hove-albion,manchester-united,505996.php",
-  "https://es.fcstats.com/partido,liverpool,tottenham-hotspur,506001.php",
+  "https://es.fcstats.com/partido,paris-saint-germain,troyes,508228.php",
 
-  "https://es.fcstats.com/partido,aldosivi,arsenal-de-sarandi,549336.php",
-  "https://es.fcstats.com/partido,independiente,huracan,549344.php",
-  "https://es.fcstats.com/partido,tigre,boca-juniors,549349.php",
-  "https://es.fcstats.com/partido,rosario-central,estudiantes-de-la-plata,549346.php",
+  "https://es.fcstats.com/partido,hellas-verona,ac-milan,523640.php",
 
-  "https://es.fcstats.com/partido,atletico-bucaramanga,patriotas,547692.php",
-  "https://es.fcstats.com/partido,deportivo-cali,santa-fe,547694.php",
-  "https://es.fcstats.com/partido,deportivo-pasto,america-de-cali,547695.php",
-  "https://es.fcstats.com/partido,jaguares-de-cordoba,independiente-medellin,547697.php",
+  "https://es.fcstats.com/partido,argentinos-juniors,union-de-santa-fe,549337.php",
+  "https://es.fcstats.com/partido,defensa-y-justicia,patronato-parana,549342.php",
+  "https://es.fcstats.com/partido,gimnasia-la-plata,newells-old-boys,549343.php",
+  "https://es.fcstats.com/partido,talleres-de-cordoba,sarmiento,549348.php",
+  "https://es.fcstats.com/partido,river-plate,platense,549345.php",
+
+  "https://es.fcstats.com/partido,cortulua,atletico-junior,547693.php",
+  "https://es.fcstats.com/partido,envigado-fc,rionegro-aguilas,547696.php",
+  "https://es.fcstats.com/partido,millonarios,deportes-tolima,547698.php",
+  "https://es.fcstats.com/partido,alianza-petrolera,once-caldas,547699.php",
 
   /** ***TEST*** */
   "https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html",
@@ -119,20 +122,21 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 }
 
 let Enl = [
+  AEsp[0], //  "",
+  "", //  AEsp[0],
   "",
   "",
-  "",
-  "",
-  "",
+
+  AIng[0], //  "",
+  "", //  AIng[0],
+
+  "", //  AAle[0],
 
   "",
 
   "",
 
   "",
-  "",
-  "",
-
   "",
   "",
   "",
