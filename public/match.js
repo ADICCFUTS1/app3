@@ -1,5 +1,10 @@
 let Title = [
-  "Liga Profesional Argentina",
+  "LaLiga",
+  "LaLiga",
+  "LaLiga",
+
+  "Premier League",
+
   "Liga Profesional Argentina",
   "Liga Profesional Argentina",
 
@@ -14,9 +19,14 @@ let Title = [
   "ERROR"
 ];
 let Match = [
-  "Central Córdoba SdE - Lanús",
-  "Colón - Vélez Sarsfield",
-  "Banfield - Atlético Tucumán"
+  "Valencia - Real Betis",
+  "Granada - Athletic Club",
+  "Barcelona - Celta de Vigo",
+
+  "Aston Villa - Liverpool",
+
+  "Racing Club - Aldosivi",
+  "Boca - Juniors - Def y Justicia"
 ];
 
 var Est = [];
@@ -57,27 +67,12 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 let Enl = [
   "",
   "",
-  Extra[0],
-
-  "",
-  "",
-
-  "",
-
   "",
 
   "",
 
   "",
   "",
-  "",
-  "",
-  Extra[0],
-
-  "",
-  "",
-  "",
-  ACol[0],
 
   /** */
   /** */
