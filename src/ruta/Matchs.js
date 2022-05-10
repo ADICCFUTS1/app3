@@ -59,9 +59,9 @@ export default function Matchs() {
   var lis = [];
 
   let BB = [
-    bloque.Extra[0],
-    bloque.Extra[1],
     "",
+    "",
+    bloque.Extra[0],
     "",
 
     "",
