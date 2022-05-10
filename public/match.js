@@ -66,10 +66,10 @@ for (var i = 0; i <= ustat.length - 23; i++) {
 
 let Enl = [
   "",
-  Extra[0],
-  AEsp[0],
+  "",
+  "",
 
-  AIng[0],
+  "",
 
   "",
   "",
