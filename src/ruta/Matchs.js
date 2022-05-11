@@ -62,7 +62,7 @@ export default function Matchs() {
     "",
     "",
     bloque.AEsp[1],
-    "",
+    bloque.AEsp[0],
 
     bloque.AIng[0],
     bloque.AIng[1],

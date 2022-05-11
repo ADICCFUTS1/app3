@@ -76,10 +76,10 @@ let Enl = [
   "",
   "",
   AEsp[1],
-  "",
+  AEsp[0],
 
   AIng[0],
-  AIng[0],
+  AIng[1],
 
   AIta[0],
 
