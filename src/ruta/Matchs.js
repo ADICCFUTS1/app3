@@ -70,7 +70,7 @@ export default function Matchs() {
     "",
 
     bloque.Extra[0],
-    "",
+    bloque.Extra[1],
 
     /****/
     "error!!1",
