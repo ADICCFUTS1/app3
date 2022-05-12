@@ -18,7 +18,7 @@
     "Partido": "Rayo Vallecano - Villarreal",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,rayo-vallecano,villarreal,509977.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0b.html",
       "valor2": "",
@@ -32,7 +32,7 @@
     "Partido": " Tottenham Hotspur - Arsenal",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,tottenham-hotspur,arsenal-london,505861.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ing-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ing-0b.html",
