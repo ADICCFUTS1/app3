@@ -3,10 +3,10 @@
     "dt": "1652374800",
     "Partido": "Real Sociedad - Cádiz",
     "Competicion": "LaLiga",
-    "Estadisticas": "",
-    "Switch": 1,
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,real-sociedad,cadiz,509979.php",
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0.html",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -17,7 +17,7 @@
     "dt": "1652378400",
     "Partido": "Rayo Vallecano - Villarreal",
     "Competicion": "LaLiga",
-    "Estadisticas": "",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,rayo-vallecano,villarreal,509977.php",
     "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0b.html",
@@ -31,7 +31,7 @@
     "dt": "1652381100",
     "Partido": " Tottenham Hotspur - Arsenal",
     "Competicion": "Premier League",
-    "Estadisticas": "",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,tottenham-hotspur,arsenal-london,505861.php",
     "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ing-0.html",
@@ -45,12 +45,12 @@
     "dt": "1652383800",
     "Partido": "Real Madrid - Levante",
     "Competicion": "LaLiga",
-    "Estadisticas": "",
-    "Switch": 0,
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,real-madrid,levante,509978.php",
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-1.html",
+      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0.html",
+      "valor3": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0c.html",
       "valor4": "",
       "valor5": ""
     }
