@@ -49,10 +49,12 @@ export default (props) => {
         : todos.map((todo, index) => {
             var dta = [];
             var date = new Date(todo.dt * 1000);
-            var hours = date.getHours();
+            var hours = "0" + date.getHours();
             var minutes = "0" + date.getMinutes();
             var formattedTime =
-              hours + ":" + minutes.substr(-2); /*+ ':' + seconds.substr(-2)*/
+              hours.substr(-2) +
+              ":" +
+              minutes.substr(-2); /*+ ':' + seconds.substr(-2)*/
             dta.push(formattedTime);
             return (
               <div>
