@@ -18,7 +18,7 @@
     "Partido": "Napoli - Genoa",
     "Competicion": "Serie A",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,napoli,genoa,523647.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0b.html",
