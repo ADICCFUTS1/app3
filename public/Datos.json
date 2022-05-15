@@ -60,7 +60,7 @@
     "Partido": "Athletic Club - Osasuna",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,athletic-bilbao,osasuna,509982.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/extra-0a-m3u8.html",
       "valor2": "",
@@ -74,7 +74,7 @@
     "Partido": "Atlético Madrid - Sevilla",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,atletico-madrid,sevilla,509983.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://app-redirecciones-2.blogspot.com/2020/04/esp-0.html",
       "valor2": "https://app-redirecciones-2.blogspot.com/2020/04/esp-0b.html",
@@ -88,7 +88,7 @@
     "Partido": "Cádiz - Real Madrid",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,cadiz,real-madrid,509985.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0b.html",
@@ -102,7 +102,7 @@
     "Partido": "Celta de Vigo - Elche",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,celta-de-vigo,elche,509986.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/extra-0b-m3u8.html",
       "valor2": "",
@@ -116,7 +116,7 @@
     "Partido": "Getafe - Barcelona",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,getafe,fc-barcelona,509988.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-1.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/esp-1b.html",
@@ -130,7 +130,7 @@
     "Partido": "Levante - Deportivo Alavés",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,levante,deportivo-alaves,509989.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/extra-0c-m3u8.html",
       "valor2": "",
@@ -144,7 +144,7 @@
     "Partido": "Mallorca - Rayo Vallecano",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,mallorca,rayo-vallecano,509990.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/extra-0d-m3u8.html",
       "valor2": "",
@@ -158,7 +158,7 @@
     "Partido": "Real Betis - Granada",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,real-betis,granada,509984.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://app-redirecciones-2.blogspot.com/2020/04/extra-0a-m3u8.html",
       "valor2": "https://app-redirecciones-2.blogspot.com/2020/04/extra-0b-m3u8.html",
@@ -172,7 +172,7 @@
     "Partido": "Villarreal - Real Sociedad",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,villarreal,real-sociedad,509991.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://app-redirecciones-2.blogspot.com/2020/04/esp-1.html",
       "valor2": "https://app-redirecciones-2.blogspot.com/2020/04/esp-1b.html",
