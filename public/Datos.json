@@ -228,9 +228,9 @@
     "Partido": "América de Cali - Unión Magdalena",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,america-de-cali,union-magdalena,547702.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/col-0.html",
       "valor2": "",
       "valor3": "",
       "valor4": "",
