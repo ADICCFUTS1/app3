@@ -46,10 +46,10 @@
     "Partido": "Milan - Atalanta",
     "Competicion": "Serie A",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,ac-milan,atalanta,523641.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0.html",
-      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0b.html",
+      "valor1": "",
+      "valor2": "",
       "valor3": "",
       "valor4": "",
       "valor5": ""
@@ -186,10 +186,10 @@
     "Partido": "Cagliari - Internazionale",
     "Competicion": "Serie A",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,cagliari-calcio,internazionale-milano,523644.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0.html",
+      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0b.html",
       "valor3": "",
       "valor4": "",
       "valor5": ""
