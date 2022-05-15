@@ -46,7 +46,7 @@
     "Partido": "Milan - Atalanta",
     "Competicion": "Serie A",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,ac-milan,atalanta,523641.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "",
       "valor2": "",
