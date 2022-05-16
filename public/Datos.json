@@ -4,7 +4,7 @@
     "Partido": "Juventus - Lazio",
     "Competicion": "Serie A",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,juventus-torino,ss-lazio,523646.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0b.html",
@@ -18,7 +18,7 @@
     "Partido": "Newcastle United - Arsenal",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,newcastle-united,arsenal-london,506008.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ing-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ing-0b.html",
