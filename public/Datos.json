@@ -3,12 +3,12 @@
     "dt": "1652813100",
     "Partido": "Southampton - Liverpool",
     "Competicion": "Premier League",
-    "Estadisticas": "https://csb-hqc55m.netlify.app/?txt=0",
-    "Switch": 0,
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,southampton,liverpool,506009.php",
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ing-0.html",
+      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ing-0b.html",
+      "valor3": "https://csb-hqc55m.netlify.app/?txt=0",
       "valor4": "",
       "valor5": ""
     }
