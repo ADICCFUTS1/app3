@@ -4,7 +4,7 @@
     "Partido": "Eintracht Frankfurt - Rangers",
     "Competicion": "UEFA Europa League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ale-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ale-0b.html",
@@ -18,10 +18,10 @@
     "Partido": "Nacional - Vélez Sarsfield",
     "Competicion": "Conmebol Libertadores",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/extra-0a-m3u8.html",
+      "valor2": "https://react-cms-omega.vercel.app/?txt=1",
       "valor3": "",
       "valor4": "",
       "valor5": ""
