@@ -32,10 +32,10 @@
     "Partido": "Fiorentina - Juventus",
     "Competicion": "Serie A",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,fiorentina,juventus-torino,523652.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0.html",
+      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0b.html",
       "valor3": "",
       "valor4": "",
       "valor5": ""
@@ -46,10 +46,10 @@
     "Partido": "PSG - Metz",
     "Competicion": "Ligue 1",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,paris-saint-germain,metz,508248.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/fra-0.html",
+      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/fra-0b.html",
       "valor3": "",
       "valor4": "",
       "valor5": ""
