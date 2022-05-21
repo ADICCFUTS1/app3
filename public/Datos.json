@@ -4,7 +4,7 @@
     "Partido": "Valencia - Celta de Vigo",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,valencia,celta-de-vigo,510001.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "",
       "valor2": "",
