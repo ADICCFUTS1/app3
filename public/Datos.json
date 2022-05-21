@@ -60,9 +60,9 @@
     "Partido": "Envigado - Deportes Tolima",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,envigado-fc,deportes-tolima,562518.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/blog?txt=0",
       "valor2": "",
       "valor3": "",
       "valor4": "",
