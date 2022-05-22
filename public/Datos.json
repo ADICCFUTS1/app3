@@ -18,7 +18,7 @@
     "Partido": "Arsenal - Everton",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,arsenal-london,everton,506014.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "https://react-cms-omega.vercel.app/?txt=1",
@@ -32,7 +32,7 @@
     "Partido": "Chelsea - Watford",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,chelsea-london,watford,506018.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=2",
       "valor2": "https://react-cms-omega.vercel.app/?txt=3",
@@ -46,7 +46,7 @@
     "Partido": "Crystal Palace - Manchester United",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,crystal-palace,manchester-united,506019.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=4",
       "valor2": "https://react-cms-omega.vercel.app/?txt=5",
@@ -60,7 +60,7 @@
     "Partido": "Liverpool - Wolverhampton Wanderers",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,liverpool,wolverhampton-wanderers,506021.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ing-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ing-0b.html",
@@ -74,7 +74,7 @@
     "Partido": "Manchester City - Aston Villa",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,manchester-city,aston-villa,506022.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ing-1.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ing-1b.html",
@@ -88,7 +88,7 @@
     "Partido": "Norwich City - Tottenham Hotspur",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,norwich-city,tottenham-hotspur,506023.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=6",
       "valor2": "",
