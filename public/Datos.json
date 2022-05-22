@@ -116,10 +116,10 @@
     "Partido": "Internazionale - Sampdoria",
     "Competicion": "Serie A",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,internazionale-milano,sampdoria,523654.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0.html",
+      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0b.html",
       "valor3": "",
       "valor4": "",
       "valor5": ""
@@ -130,10 +130,10 @@
     "Partido": "Sassuolo - Milan",
     "Competicion": "Serie A",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,sassuolo,ac-milan,523657.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ita-1.html",
+      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ita-1b.html",
       "valor3": "",
       "valor4": "",
       "valor5": ""
