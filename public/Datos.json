@@ -74,7 +74,7 @@
     "Partido": "Manchester City - Aston Villa",
     "Competicion": "Premier League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,manchester-city,aston-villa,506022.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ing-1.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ing-1b.html",
