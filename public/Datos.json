@@ -200,7 +200,7 @@
     "Partido": "Barcelona - Villarreal",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,fc-barcelona,villarreal,509993.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0b.html",
@@ -214,7 +214,7 @@
     "Partido": "Real Sociedad - Atlético Madrid",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,real-sociedad,atletico-madrid,509999.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://app-redirecciones-2.blogspot.com/2020/04/esp-0.html",
       "valor2": "https://app-redirecciones-2.blogspot.com/2020/04/esp-0b.html",
@@ -228,7 +228,7 @@
     "Partido": "Sevilla - Athletic Club",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,sevilla,athletic-bilbao,510000.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-1.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/esp-1b.html",
@@ -242,9 +242,9 @@
     "Partido": "Millonarios - Atlético Bucaramanga",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,millonarios,atletico-bucaramanga,562521.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/col-0.html",
       "valor2": "",
       "valor3": "",
       "valor4": "",
