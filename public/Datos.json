@@ -144,7 +144,7 @@
     "Partido": "Deportivo Alavés - Cádiz",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,deportivo-alaves,cadiz,509992.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0.html",
       "valor2": "",
@@ -158,7 +158,7 @@
     "Partido": "Granada - Espanyol",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,granada,espanyol-barcelona,509995.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0b.html",
       "valor2": "",
@@ -172,7 +172,7 @@
     "Partido": "Osasuna - Mallorca",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,osasuna,mallorca,509996.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0c.html",
       "valor2": "",
@@ -200,11 +200,11 @@
     "Partido": "Barcelona - Villarreal",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,fc-barcelona,villarreal,509993.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0.html",
+      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0b.html",
+      "valor3": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0c.html",
       "valor4": "",
       "valor5": ""
     }
@@ -214,11 +214,11 @@
     "Partido": "Real Sociedad - Atlético Madrid",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,real-sociedad,atletico-madrid,509999.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://app-redirecciones-2.blogspot.com/2020/04/esp-0.html",
+      "valor2": "https://app-redirecciones-2.blogspot.com/2020/04/esp-0b.html",
+      "valor3": "https://app-redirecciones-2.blogspot.com/2020/04/esp-0c.html",
       "valor4": "",
       "valor5": ""
     }
@@ -228,11 +228,11 @@
     "Partido": "Sevilla - Athletic Club",
     "Competicion": "LaLiga",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,sevilla,athletic-bilbao,510000.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-1.html",
+      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/esp-1b.html",
+      "valor3": "https://apps-innova-redirects.blogspot.com/2020/04/esp-1c.html",
       "valor4": "",
       "valor5": ""
     }
