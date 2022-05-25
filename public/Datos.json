@@ -4,11 +4,11 @@
     "Partido": "Roma - Feyenoord",
     "Competicion": "Conference League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,as-roma,feyenoord-rotterdam,562356.php",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0.html",
+      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0b.html",
+      "valor3": "https://react-cms-omega.vercel.app/?txt=0",
       "valor4": "",
       "valor5": ""
     }
