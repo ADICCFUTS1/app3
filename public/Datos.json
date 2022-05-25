@@ -4,7 +4,7 @@
     "Partido": "Roma - Feyenoord",
     "Competicion": "Conference League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,as-roma,feyenoord-rotterdam,562356.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0b.html",
@@ -18,10 +18,10 @@
     "Partido": "River Plate - Alianza Lima",
     "Competicion": "Conmebol Libertadores",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/extra-0a-m3u8.html",
+      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/extra-0b-m3u8.html",
       "valor3": "",
       "valor4": "",
       "valor5": ""
@@ -32,9 +32,9 @@
     "Partido": "Lanús - Metropolitanos",
     "Competicion": "Conmebol Sudamericana",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
       "valor3": "",
       "valor4": "",
