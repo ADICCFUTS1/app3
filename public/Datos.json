@@ -32,7 +32,7 @@
     "Partido": "Lanús - Metropolitanos",
     "Competicion": "Conmebol Sudamericana",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
@@ -88,9 +88,9 @@
     "Partido": "Independiente - Ceará",
     "Competicion": "Conmebol Sudamericana",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=",
       "valor2": "",
       "valor3": "",
       "valor4": "",
