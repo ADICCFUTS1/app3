@@ -10,6 +10,7 @@ import Typography from "@material-ui/core/Typography";
 import Btn from "./btn";
 
 import Button from "@material-ui/core/Button";
+import Buttons from "./Componentes/Buttons";
 const useStyles = makeStyles((theme) => ({
   root: {
     "& > *": {
@@ -58,42 +59,11 @@ export default (props) => {
             dta.push(formattedTime);
             return (
               <div>
-                <Typography variant="h5" gutterBottom>
-                  {todo.Competicion}:
-                </Typography>
+                <Typography>{todo.Competicion}:</Typography>
                 <Typography variant="h6" gutterBottom>
                   {dta} {todo.Partido}
                 </Typography>
-                {todo.Switch !== 0 ? (
-                  <div className={classes.root}>
-                    {todo.EnlaceMatchs.valor1 !== "" ? (
-                      <Btn Valor={todo.EnlaceMatchs.valor1} />
-                    ) : (
-                      ""
-                    )}{" "}
-                    {todo.EnlaceMatchs.valor2 !== "" ? (
-                      <Btn Valor={todo.EnlaceMatchs.valor2} />
-                    ) : (
-                      ""
-                    )}{" "}
-                    {todo.EnlaceMatchs.valor3 !== "" ? (
-                      <Btn Valor={todo.EnlaceMatchs.valor3} />
-                    ) : (
-                      ""
-                    )}
-                  </div>
-                ) : (
-                  ""
-                )}
-                <div className={classes.root}>
-                  <Button
-                    variant="contained"
-                    color="primary"
-                    href={todo.Estadisticas}
-                  >
-                    Estadisticas
-                  </Button>
-                </div>
+                <Buttons {...todo} />
               </div>
             );
           })}
