@@ -16,6 +16,7 @@ import Container from "@material-ui/core/Container";
 import Btn from "./btn";
 import * as bloque from "./btns";
 import AllData from "./AppExt";
+import Card2 from "./cards/Card2";
 
 import Titulo from "./titulo";
 import Paper from "@material-ui/core/Paper";
@@ -77,6 +78,7 @@ export default function MainJS() {
               <RefreshIcon />
             </Button>
           </div>
+          {/*<Card2 />*/}
           <div>
             <Divider />
           </div>

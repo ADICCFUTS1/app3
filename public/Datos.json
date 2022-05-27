@@ -1,55 +1,13 @@
 [
   {
     "dt": "1653603300",
-    "Partido": "Racing Club - River Plate",
-    "Competicion": "Conmebol Sudamericana",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Partido": "Sin Partidos",
+    "Competicion": "Error",
+    "Estadisticas": "#",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "",
       "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": ""
-    }
-  },
-  {
-    "dt": "1653609600",
-    "Partido": "Boca Juniors - Deportivo Cali",
-    "Competicion": "Conmebol Libertadores",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/extra-0a-m3u8.html",
-      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/extra-0b-m3u8.html",
-      "valor3": "",
-      "valor4": "",
-      "valor5": ""
-    }
-  },
-  {
-    "dt": "1653609600",
-    "Partido": "Corinthians - Always Ready",
-    "Competicion": "Conmebol Libertadores",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=7",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=8",
-      "valor3": "",
-      "valor4": "",
-      "valor5": ""
-    }
-  },
-  {
-    "dt": "1653611400",
-    "Partido": "Junior - Unión Santa Fe",
-    "Competicion": "Conmebol Sudamericana",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=1",
       "valor3": "",
       "valor4": "",
       "valor5": ""
