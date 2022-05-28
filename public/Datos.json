@@ -4,14 +4,14 @@
     "Partido": "Liverpool - Real Madrid",
     "Competicion": "UEFA Champions League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,liverpool,real-madrid,562357.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0.html",
-      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0b.html",
-      "valor3": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0c.html",
-      "valor4": "https://app-redirecciones-2.blogspot.com/2020/04/esp-0.html",
-      "valor5": "https://app-redirecciones-2.blogspot.com/2020/04/esp-0b.html",
-      "valor6": "https://react-cms-omega.vercel.app/?txt=2"
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
     },
     "Imagen": "https://phantom-marca.unidadeditorial.es/e5b2add48e10fcc6087f01f8f97e5c9a/resize/1320/f/jpg/assets/multimedia/imagenes/2022/05/27/16536635709966.png"
   }
