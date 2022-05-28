@@ -77,9 +77,6 @@ export default function MainJS() {
             <Button variant="outlined" color="secondary" onClick={refreshPage}>
               <RefreshIcon />
             </Button>
-          </div>
-          <Card2 />
-          <div>
             <Divider />
           </div>{" "}
           <Typography gutterBottom variant="h5" component="h2">
