@@ -48,6 +48,21 @@ const Buttons = (props) => {
             <Btn Valor={props.EnlaceMatchs.valor3} />
           ) : (
             ""
+          )}{" "}
+          {props.EnlaceMatchs.valor4 !== "" ? (
+            <Btn Valor={props.EnlaceMatchs.valor4} />
+          ) : (
+            ""
+          )}{" "}
+          {props.EnlaceMatchs.valor5 !== "" ? (
+            <Btn Valor={props.EnlaceMatchs.valor5} />
+          ) : (
+            ""
+          )}
+          {props.EnlaceMatchs.valor6 !== "" ? (
+            <Btn Valor={props.EnlaceMatchs.valor6} />
+          ) : (
+            ""
           )}
         </div>
       ) : (

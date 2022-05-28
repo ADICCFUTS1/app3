@@ -78,10 +78,13 @@ export default function MainJS() {
               <RefreshIcon />
             </Button>
           </div>
-          {/*<Card2 />*/}
+          <Card2 />
           <div>
             <Divider />
-          </div>
+          </div>{" "}
+          <Typography gutterBottom variant="h5" component="h2">
+            Todos los eventos
+          </Typography>
           <AllData />
         </Container>
       </React.Fragment>

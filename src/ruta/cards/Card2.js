@@ -50,19 +50,19 @@ export default function Card2() {
             return (
               <div>
                 <Typography gutterBottom variant="h5" component="h2">
-                  Viernes 28/05/2022 {dta}
+                  Evento Destacado
                 </Typography>
 
                 <Card className={classes.root}>
                   <CardActionArea>
                     <CardMedia
                       className={classes.media}
-                      image={todo.EnlaceMatchs.valor5}
-                      title="Contemplative Reptile"
+                      image={todo.Imagen}
+                      title={todo.Partido}
                     />
                     <CardContent>
                       <Typography gutterBottom variant="h5" component="h2">
-                        {todo.Partido}
+                        {dta} {todo.Partido}
                       </Typography>
                     </CardContent>
                   </CardActionArea>
