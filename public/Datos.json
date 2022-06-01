@@ -34,13 +34,14 @@
     "Partido": "La Equidad - Envigado",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
       "valor2": "",
       "valor3": "",
       "valor4": "",
-      "valor5": ""
+      "valor5": "",
+      "valor6": ""
     }
   },
   {
