@@ -4,7 +4,7 @@
     "Partido": "Italia - Argentina",
     "Competicion": "Copa Finalisima",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/general-ext?url=https://es.betsapi.com/r/4847605/Italy-vs-Argentina",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0b.html",
@@ -19,7 +19,7 @@
     "Partido": "Escocia - Ucrania",
     "Competicion": "Eliminatorias UEFA",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,escocia,ucrania,559132.php",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
