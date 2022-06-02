@@ -1,27 +1,12 @@
 [
   {
-    "dt": "1654109100",
-    "Partido": "Italia - Argentina",
-    "Competicion": "Copa Finalisima",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/general-ext?url=https://es.betsapi.com/r/4847605/Italy-vs-Argentina",
+    "dt": "1654167600",
+    "Partido": "República de Corea - Brasil",
+    "Competicion": "Amistoso",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0.html",
-      "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0b.html",
-      "valor3": "https://apps-innova-redirects.blogspot.com/2020/04/extra-0a-m3u8.html",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654109100",
-    "Partido": "Escocia - Ucrania",
-    "Competicion": "Eliminatorias UEFA",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,escocia,ucrania,559132.php",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -30,13 +15,13 @@
     }
   },
   {
-    "dt": "1654124400",
-    "Partido": "La Equidad - Envigado",
-    "Competicion": "Liga Dimayor Colombia",
+    "dt": "1654195500",
+    "Partido": "España - Portugal",
+    "Competicion": "UEFA Nations League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -45,13 +30,43 @@
     }
   },
   {
-    "dt": "1654131900",
-    "Partido": "Deportes Tolima - Medellín",
-    "Competicion": "Liga Dimayor Colombia",
+    "dt": "1654195500",
+    "Partido": "República Checa - Suiza",
+    "Competicion": "UEFA Nations League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1654216200",
+    "Partido": "Ecuador - Nigeria",
+    "Competicion": "Amistoso",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
+      "valor2": "",
+      "valor3": "",
+      "valor4": "",
+      "valor5": "",
+      "valor6": ""
+    }
+  },
+  {
+    "dt": "1654221600",
+    "Partido": "Mexico - Uruguay",
+    "Competicion": "Amistoso",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Switch": 0,
+    "EnlaceMatchs": {
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
