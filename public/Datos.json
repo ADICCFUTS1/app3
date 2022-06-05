@@ -49,7 +49,7 @@
     "Partido": "Arabia Saudita - Colombia",
     "Competicion": "Amistoso",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=3",
       "valor2": "",
@@ -64,7 +64,7 @@
     "Partido": "Argentina - Estonia",
     "Competicion": "Amistoso",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/extra-0a-m3u8.html",
       "valor2": "https://react-cms-omega.vercel.app/?txt=4",
@@ -109,9 +109,9 @@
     "Partido": "Envigado - Medellín",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/col-0.html",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -124,9 +124,9 @@
     "Partido": "Estudiantes - Gimnasia La Plata",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
       "valor3": "",
       "valor4": "",
