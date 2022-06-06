@@ -32,47 +32,18 @@ const Buttons = (props) => {
   const classes = useStyles();
   return (
     <div>
-      {props.Switch !== 0 ? (
+      {props.Switch !== "null" ? (
         <div className={classes.root}>
-          {props.EnlaceMatchs.valor1 !== "" ? (
-            <Btn Valor={props.EnlaceMatchs.valor1} />
-          ) : (
-            ""
-          )}{" "}
-          {props.EnlaceMatchs.valor2 !== "" ? (
-            <Btn Valor={props.EnlaceMatchs.valor2} />
-          ) : (
-            ""
-          )}{" "}
-          {props.EnlaceMatchs.valor3 !== "" ? (
-            <Btn Valor={props.EnlaceMatchs.valor3} />
-          ) : (
-            ""
-          )}{" "}
-          {props.EnlaceMatchs.valor4 !== "" ? (
-            <Btn Valor={props.EnlaceMatchs.valor4} />
-          ) : (
-            ""
-          )}{" "}
-          {props.EnlaceMatchs.valor5 !== "" ? (
-            <Btn Valor={props.EnlaceMatchs.valor5} />
-          ) : (
-            ""
-          )}
-          {props.EnlaceMatchs.valor6 !== "" ? (
-            <Btn Valor={props.EnlaceMatchs.valor6} />
-          ) : (
-            ""
-          )}
+          {props.Enlace1 !== undefined ? <Btn Valor={props.Enlace1} /> : ""}{" "}
+          {props.Enlace2 !== undefined ? <Btn Valor={props.Enlace2} /> : ""}{" "}
+          {props.Enlace3 !== undefined ? <Btn Valor={props.Enlace3} /> : ""}{" "}
+          {props.Enlace4 !== undefined ? <Btn Valor={props.Enlace4} /> : ""}{" "}
+          {props.Enlace5 !== undefined ? <Btn Valor={props.Enlace5} /> : ""}{" "}
+          {props.Enlace6 !== undefined ? <Btn Valor={props.Enlace6} /> : ""}
         </div>
       ) : (
         ""
       )}
-      <div className={classes.root}>
-        <Button variant="contained" color="primary" href={props.Estadisticas}>
-          Estadisticas
-        </Button>
-      </div>
     </div>
   );
 };
