@@ -169,7 +169,7 @@
     "Partido": "Mexico - Ecuador",
     "Competicion": "Amistoso",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=6",
       "valor2": "",
@@ -184,7 +184,7 @@
     "Partido": "Defensa y Justicia - River Plate",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=4",
       "valor2": "",
@@ -199,7 +199,7 @@
     "Partido": "Deportes Tolima - La Equidad",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/col-0.html",
       "valor2": "",
