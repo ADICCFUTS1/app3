@@ -12,7 +12,7 @@ import Typography from "@material-ui/core/Typography";
 import Container from "@material-ui/core/Container";
 import Btn from "./btn";
 import * as bloque from "./btns";
-import AllData from "./App";
+import AllData from "./AppExt";
 import Card2 from "./cards/Card2";
 import { useDarkMode } from "./styles/useDarkMode";
 import { GlobalStyles } from "./styles/Globalstyle";

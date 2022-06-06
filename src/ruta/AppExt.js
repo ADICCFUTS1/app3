@@ -10,7 +10,7 @@ import Typography from "@material-ui/core/Typography";
 import Btn from "./btn";
 
 import Button from "@material-ui/core/Button";
-import Buttons from "./Componentes/Buttons";
+import OldButtons from "./Componentes/OldButtons";
 const useStyles = makeStyles((theme) => ({
   root: {
     "& > *": {
@@ -63,7 +63,7 @@ export default (props) => {
                 <Typography variant="h6" gutterBottom>
                   {dta} {todo.Partido}
                 </Typography>
-                <Buttons {...todo} />
+                <OldButtons {...todo} />
               </div>
             );
           })}

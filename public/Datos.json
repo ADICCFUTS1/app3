@@ -1,10 +1,10 @@
 [
   {
-    "dt": "1654444800",
-    "Partido": "Talleres Córdoba - Sarmiento",
-    "Competicion": "Liga Profesional Argentina",
+    "dt": "1654510800",
+    "Partido": "Japón - Brasil",
+    "Competicion": "Amistoso",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "",
@@ -15,73 +15,13 @@
     }
   },
   {
-    "dt": "1654444800",
-    "Partido": "Unión Santa Fe - Tigre",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654444800",
-    "Partido": "Gales - Ucrania",
-    "Competicion": "Eliminatorias UEFA",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654448400",
-    "Partido": "Arabia Saudita - Colombia",
-    "Competicion": "Amistoso",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654452000",
-    "Partido": "Argentina - Estonia",
-    "Competicion": "Amistoso",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/extra-0a-m3u8.html",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654454700",
-    "Partido": "República Checa - España",
+    "dt": "1654541100",
+    "Partido": "Croacia - Francia",
     "Competicion": "UEFA Nations League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0.html",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -90,43 +30,13 @@
     }
   },
   {
-    "dt": "1654454700",
-    "Partido": "Portugal - Suiza",
-    "Competicion": "UEFA Nations League",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654459200",
-    "Partido": "Envigado - Medellín",
-    "Competicion": "Liga Dimayor Colombia",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/col-0.html",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654459200",
-    "Partido": "Estudiantes - Gimnasia La Plata",
+    "dt": "1654552800",
+    "Partido": "Rosario Central - Lanús",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=0",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -135,73 +45,13 @@
     }
   },
   {
-    "dt": "1654462800",
-    "Partido": "EE.UU. - Uruguay",
-    "Competicion": "Amistoso",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=7",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654468200",
-    "Partido": "Boca Juniors - Arsenal",
+    "dt": "1654561800",
+    "Partido": "Argentinos Juniors - Aldosivi",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654471800",
-    "Partido": "Mexico - Ecuador",
-    "Competicion": "Amistoso",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=6",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654475400",
-    "Partido": "Defensa y Justicia - River Plate",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654475700",
-    "Partido": "Deportes Tolima - La Equidad",
-    "Competicion": "Liga Dimayor Colombia",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/col-0.html",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
