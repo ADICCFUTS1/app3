@@ -154,7 +154,7 @@
     "Partido": "Boca Juniors - Arsenal",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=1",
       "valor2": "",
@@ -184,9 +184,9 @@
     "Partido": "Defensa y Justicia - River Plate",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -199,9 +199,9 @@
     "Partido": "Deportes Tolima - La Equidad",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/col-0.html",
       "valor2": "",
       "valor3": "",
       "valor4": "",
