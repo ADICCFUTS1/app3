@@ -4,7 +4,7 @@
     "Partido": "Alemania - Inglaterra",
     "Competicion": "UEFA Nations League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ing-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/ing-0b.html",
@@ -19,7 +19,7 @@
     "Partido": "Italia - Hungria",
     "Competicion": "UEFA Nations League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/ita-0.html",
       "valor2": "",
