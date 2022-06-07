@@ -1,8 +1,8 @@
 [
   {
-    "dt": "1654510800",
-    "Partido": "Japón - Brasil",
-    "Competicion": "Amistoso",
+    "dt": "1654627500",
+    "Partido": "Alemania - Inglaterra",
+    "Competicion": "UEFA Nations League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
@@ -15,43 +15,13 @@
     }
   },
   {
-    "dt": "1654541100",
-    "Partido": "Croacia - Francia",
+    "dt": "1654627500",
+    "Partido": "Italia - Hungria",
     "Competicion": "UEFA Nations League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654552800",
-    "Partido": "Rosario Central - Lanús",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1654561800",
-    "Partido": "Argentinos Juniors - Aldosivi",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
       "valor2": "",
       "valor3": "",
       "valor4": "",
