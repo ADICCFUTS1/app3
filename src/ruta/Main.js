@@ -1,19 +1,13 @@
-import React, { useState } from "react";
+import React from "react";
 
-import { makeStyles, createMuiTheme } from "@material-ui/core/styles";
+import { makeStyles } from "@material-ui/core/styles";
 import { ThemeProvider } from "styled-components";
-import IconButton from "@material-ui/core/IconButton";
 import Button from "@material-ui/core/Button";
 import RefreshIcon from "@material-ui/icons/Refresh";
-import Brightness3Icon from "@material-ui/icons/Brightness3";
-import Brightness7Icon from "@material-ui/icons/Brightness7";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import Typography from "@material-ui/core/Typography";
 import Container from "@material-ui/core/Container";
-import Btn from "./btn";
-import * as bloque from "./btns";
 import AllData from "./AppExt";
-import Card2 from "./cards/Card2";
 import { useDarkMode } from "./styles/useDarkMode";
 import { GlobalStyles } from "./styles/Globalstyle";
 import { lightTheme, darkTheme } from "./styles/Themes";
@@ -24,7 +18,6 @@ import Titulo from "./titulo";
 import Paper from "@material-ui/core/Paper";
 import Grid from "@material-ui/core/Grid";
 import Divider from "@material-ui/core/Divider";
-import { indigo } from "@material-ui/core/colors";
 
 /*const isDark = window.matchMedia("(prefers-color-scheme:dark)").matches;
 const lightTheme = {
@@ -57,7 +50,7 @@ const useStyles = makeStyles((theme) => ({
 
 export default function MainJS() {
   const classes = useStyles();
-  const [theme, themeToggler, mountedComponent] = useDarkMode();
+  const [theme, themeToggler] = useDarkMode();
 
   const themeMode = theme === "light" ? lightTheme : darkTheme;
 
