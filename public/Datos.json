@@ -19,7 +19,7 @@
     "Partido": "Godoy Cruz - Racing Club",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=5",
       "valor2": "",
@@ -34,7 +34,7 @@
     "Partido": "España - República Checa",
     "Competicion": "UEFA Nations League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/esp-0b.html",
@@ -49,7 +49,7 @@
     "Partido": "Suiza - Portugal",
     "Competicion": "UEFA Nations League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "https://react-cms-omega.vercel.app/?txt=1",
@@ -79,9 +79,9 @@
     "Partido": "Vélez Sarsfield - Platense",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
-      "valor1": "",
+      "valor1": "https://react-cms-omega.vercel.app/?txt=15",
       "valor2": "",
       "valor3": "",
       "valor4": "",
