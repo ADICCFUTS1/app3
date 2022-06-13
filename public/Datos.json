@@ -4,7 +4,7 @@
     "Partido": "Australia - Perú",
     "Competicion": "World Cup Qualifying",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=0",
       "valor2": "https://react-cms-omega.vercel.app/?txt=1",
@@ -19,7 +19,7 @@
     "Partido": "Dinamarca - Austria",
     "Competicion": "UEFA Nations League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://react-cms-omega.vercel.app/?txt=2",
       "valor2": "",
@@ -34,7 +34,7 @@
     "Partido": "Francia - Croacia",
     "Competicion": "UEFA Nations League",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/fra-0.html",
       "valor2": "https://apps-innova-redirects.blogspot.com/2020/04/fra-0b.html",
