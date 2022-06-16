@@ -1,7 +1,7 @@
 [
   {
-    "dt": "1655312400",
-    "Partido": "Barracas Central - Unión Santa Fe",
+    "dt": "1655416800",
+    "Partido": "Argentinos Juniors - Independiente",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
@@ -15,8 +15,8 @@
     }
   },
   {
-    "dt": "1655321400",
-    "Partido": "Atlético Tucumán - Lanús",
+    "dt": "1655416800",
+    "Partido": "Rosario Central - Godoy Cruz",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
@@ -30,8 +30,8 @@
     }
   },
   {
-    "dt": "1655321400",
-    "Partido": "Banfield - Central Córdoba SdE",
+    "dt": "1655425800",
+    "Partido": "Platense - Gimnasia La Plata",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
@@ -45,8 +45,8 @@
     }
   },
   {
-    "dt": "1655330400",
-    "Partido": "Colón - River Plate",
+    "dt": "1655425800",
+    "Partido": "Racing Club - Vélez Sarsfield",
     "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
@@ -60,13 +60,13 @@
     }
   },
   {
-    "dt": "1655334000",
-    "Partido": "Atlético Bucaramanga - Millonarios",
+    "dt": "1655425800",
+    "Partido": "Deportes Tolima - Envigado",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/col-0.html",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -75,28 +75,13 @@
     }
   },
   {
-    "dt": "1655339400",
-    "Partido": "Boca Juniors - Tigre",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=15",
-      "valor2": "https://react-cms-omega.vercel.app/?txt=16",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1655342100",
-    "Partido": "Atlético Nacional - Junior",
+    "dt": "1655425800",
+    "Partido": "La Equidad - Medellín",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/col-0.html",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
