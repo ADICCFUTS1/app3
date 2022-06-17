@@ -1,83 +1,8 @@
 [
   {
     "dt": "1655416800",
-    "Partido": "Argentinos Juniors - Independiente",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1655416800",
-    "Partido": "Rosario Central - Godoy Cruz",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1655425800",
-    "Partido": "Platense - Gimnasia La Plata",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1655425800",
-    "Partido": "Racing Club - Vélez Sarsfield",
-    "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1655425800",
-    "Partido": "Deportes Tolima - Envigado",
-    "Competicion": "Liga Dimayor Colombia",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
-    "EnlaceMatchs": {
-      "valor1": "",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1655425800",
-    "Partido": "La Equidad - Medellín",
-    "Competicion": "Liga Dimayor Colombia",
+    "Partido": "Sin partidos",
+    "Competicion": "Error",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
