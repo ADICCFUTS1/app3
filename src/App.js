@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./ruta/Home";
 import Second from "./ruta/Dos";
 import Main from "./ruta/Main";
-import Tests from "./ruta/Tests";
+import Tests from "./ruta/App";
 
 function App() {
   return (
