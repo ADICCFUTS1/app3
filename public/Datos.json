@@ -1,12 +1,12 @@
 [
   {
     "dt": "1655946000",
-    "Partido": "Atlético Nacional - Deportes Tolima",
-    "Competicion": "Liga Dimayor Colombia",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Partido": "Sin partidos",
+    "Competicion": "Error",
+    "Estadisticas": "",
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://apps-innova-redirects.blogspot.com/2020/04/col-0.html",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
