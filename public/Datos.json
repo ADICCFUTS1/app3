@@ -1,7 +1,7 @@
 [
   {
-    "dt": "1656454500",
-    "Partido": "Emelec - Atlético Mineiro",
+    "dt": "1656540900",
+    "Partido": "Talleres Córdoba - Colón",
     "Competicion": "Conmebol Libertadores",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
@@ -15,8 +15,8 @@
     }
   },
   {
-    "dt": "1656454500",
-    "Partido": "Nacional - Unión Santa Fe",
+    "dt": "1656549000",
+    "Partido": "Deportivo Cali - Melgar",
     "Competicion": "Conmebol Sudamericana",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
@@ -30,13 +30,13 @@
     }
   },
   {
-    "dt": "1656462600",
-    "Partido": "Athletico-PR - Libertad",
+    "dt": "1656549000",
+    "Partido": "Deportes Tolima - Flamengo",
     "Competicion": "Conmebol Libertadores",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -45,28 +45,13 @@
     }
   },
   {
-    "dt": "1656462600",
-    "Partido": "Corinthians - Boca Juniors",
+    "dt": "1656549000",
+    "Partido": "Vélez Sarsfield - River Plate",
     "Competicion": "Conmebol Libertadores",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1656462600",
-    "Partido": "Colo-Colo - Internacional",
-    "Competicion": "Conmebol Sudamericana",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=4",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
