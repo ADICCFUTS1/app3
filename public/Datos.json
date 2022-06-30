@@ -1,8 +1,8 @@
 [
   {
-    "dt": "1656540900",
-    "Partido": "Talleres Córdoba - Colón",
-    "Competicion": "Conmebol Libertadores",
+    "dt": "1656627300",
+    "Partido": "Independiente del Valle - Lanús",
+    "Competicion": "Conmebol Sudamericana",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
@@ -15,13 +15,13 @@
     }
   },
   {
-    "dt": "1656549000",
-    "Partido": "Deportivo Cali - Melgar",
+    "dt": "1656635400",
+    "Partido": "Olimpia - Atlético Goianiense",
     "Competicion": "Conmebol Sudamericana",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
@@ -30,28 +30,13 @@
     }
   },
   {
-    "dt": "1656549000",
-    "Partido": "Deportes Tolima - Flamengo",
+    "dt": "1656635400",
+    "Partido": "Fortaleza - Estudiantes",
     "Competicion": "Conmebol Libertadores",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1656549000",
-    "Partido": "Vélez Sarsfield - River Plate",
-    "Competicion": "Conmebol Libertadores",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=3",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
