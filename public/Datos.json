@@ -1,8 +1,8 @@
 [
   {
-    "dt": "1656627300",
-    "Partido": "Independiente del Valle - Lanús",
-    "Competicion": "Conmebol Sudamericana",
+    "dt": "1656712800",
+    "Partido": "Central Córdoba SdE - Argentinos Juniors",
+    "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
@@ -15,28 +15,13 @@
     }
   },
   {
-    "dt": "1656635400",
-    "Partido": "Olimpia - Atlético Goianiense",
-    "Competicion": "Conmebol Sudamericana",
+    "dt": "1656721800",
+    "Partido": "Boca Juniors - Banfield",
+    "Competicion": "Liga Profesional Argentina",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=1",
-      "valor2": "",
-      "valor3": "",
-      "valor4": "",
-      "valor5": "",
-      "valor6": ""
-    }
-  },
-  {
-    "dt": "1656635400",
-    "Partido": "Fortaleza - Estudiantes",
-    "Competicion": "Conmebol Libertadores",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 1,
-    "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=2",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
