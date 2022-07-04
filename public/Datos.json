@@ -1,9 +1,9 @@
 [
   {
-    "dt": "1656864000",
-    "Partido": "Unión Santa Fe - Lanús",
+    "dt": "1656964800",
+    "Partido": "Arsenal - Estudiantes",
     "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,union-de-santa-fe,lanus,563735.php",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "",
@@ -15,10 +15,10 @@
     }
   },
   {
-    "dt": "1656871200",
-    "Partido": "Barracas Central - San Lorenzo",
+    "dt": "1656972000",
+    "Partido": "Aldosivi - Rosario Central",
     "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,barracas-central,san-lorenzo,563725.php",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "dt": "1656882000",
-    "Partido": "Sarmiento - Racing Club",
+    "dt": "1656972000",
+    "Partido": "Newell's Old Boys - Patronato",
     "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,sarmiento,racing-club,563733.php",
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "",
@@ -45,13 +45,13 @@
     }
   },
   {
-    "dt": "1656892800",
-    "Partido": "Huracán - River Plate",
+    "dt": "1656981000",
+    "Partido": "Independiente - Platense",
     "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=https://es.fcstats.com/partido,huracan,river-plate,563730.php",
-    "Switch": 1,
+    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Switch": 0,
     "EnlaceMatchs": {
-      "valor1": "https://react-cms-omega.vercel.app/?txt=5",
+      "valor1": "",
       "valor2": "",
       "valor3": "",
       "valor4": "",
