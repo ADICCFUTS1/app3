@@ -3,7 +3,7 @@
     "dt": "1657321200",
     "Partido": "Rosario Central - Sarmiento",
     "Competicion": "Liga Profesional Argentina",
-    "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
+    "Estadisticas": "https://react-cms-omega.vercel.app/?txt=0",
     "Switch": 0,
     "EnlaceMatchs": {
       "valor1": "",
