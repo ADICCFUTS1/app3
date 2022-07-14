@@ -4,7 +4,7 @@
     "Partido": "Medellín - Patriotas Boyacá",
     "Competicion": "Liga Dimayor Colombia",
     "Estadisticas": "https://pirlotv2.herokuapp.com/full/app/test/est?url=",
-    "Switch": 0,
+    "Switch": 1,
     "EnlaceMatchs": {
       "valor1": "",
       "valor2": "",
